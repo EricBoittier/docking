@@ -1,0 +1,53 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: S1_3086  and  N_3084 
+REMARK       I    between atoms: C1_3085  and  O4_3111 
+REMARK       I    between atoms: C6_3094  and  C5_3092 
+REMARK       I    between atoms: S12_3097  and  O3_3089 
+REMARK       I    between atoms: C3_3088  and  O3_3089 
+REMARK       I    between atoms: C2_3087  and  N_3084 
+REMARK       I    between atoms: C2_3106  and  O2_3107 
+REMARK       I    between atoms: C5_3112  and  C6_3114 
+REMARK       I    between atoms: C1_3104  and  O1_3105 
+REMARK       I    between atoms: C4_3110  and  O4_3111 
+REMARK       I    between atoms: O2_3107  and  S_3103 
+ROOT
+HETATM    1  S1  GNX A 141      24.972  -9.320 -22.295  1.00 72.48     0.227 S 
+HETATM    2  C1  GNX A 141      26.561  -6.184 -21.587  1.00 76.66     0.262 C 
+HETATM    3  O32 GNX A 141      28.556 -10.055 -24.290  1.00 88.52    -0.572 OA
+HETATM    4  O6  GNX A 141      27.507  -2.558 -22.554  1.00 83.39    -0.218 OA
+HETATM    5  O2S GNX A 141      25.140 -10.680 -21.792  1.00 72.09    -0.577 OA
+HETATM    6  C6  GNX A 141      28.447  -3.439 -23.128  1.00 84.36     0.214 C 
+HETATM    7  S12 GNX A 141      28.659  -8.947 -25.245  1.00 89.11     0.252 S 
+HETATM    8  C5  GNX A 141      28.148  -4.864 -22.678  1.00 80.22     0.184 C 
+HETATM    9  C3  GNX A 141      27.922  -7.258 -23.404  1.00 77.05     0.198 C 
+HETATM   10  O1S GNX A 141      24.709  -9.288 -23.731  1.00 71.34    -0.577 OA
+HETATM   11  C4  GNX A 141      28.300  -5.845 -23.834  1.00 78.98     0.212 C 
+HETATM   12  O5  GNX A 141      26.833  -4.931 -22.173  1.00 78.61    -0.327 OA
+HETATM   13  O12 GNX A 141      28.025  -9.391 -26.532  1.00 92.54    -0.572 OA
+HETATM   14  C2  GNX A 141      26.591  -7.265 -22.661  1.00 74.54     0.206 C 
+HETATM   15  O3  GNX A 141      27.830  -8.086 -24.542  1.00 80.57    -0.236 OA
+HETATM   16  O22 GNX A 141      30.087  -8.756 -25.502  1.00 93.76    -0.572 OA
+HETATM   17  O3S GNX A 141      23.962  -8.582 -21.541  1.00 73.45    -0.577 OA
+HETATM   18  O4  GNX A 141      29.635  -5.833 -24.288  1.00 81.77    -0.218 OA
+HETATM   19  N   GNX A 141      26.364  -8.566 -22.063  1.00 72.68    -0.162 NA
+HETATM   20  C2  IDY A 142      27.391  -8.784 -18.395  1.00 87.58     0.226 C 
+HETATM   21  C5  IDY A 142      28.135  -5.867 -18.331  1.00 94.39     0.234 C 
+HETATM   22  C1  IDY A 142      28.539  -8.163 -17.596  1.00 89.73     0.269 C 
+HETATM   23  O5  IDY A 142      29.060  -6.928 -18.095  1.00 94.12    -0.318 OA
+HETATM   24  O61 IDY A 142      28.772  -3.592 -18.893  1.00100.42    -0.646 OA
+HETATM   25  OS3 IDY A 142      29.354 -11.127 -18.258  1.00 87.57    -0.572 OA
+HETATM   26  OS1 IDY A 142      29.189 -11.279 -20.668  1.00 84.54    -0.572 OA
+HETATM   27  C6  IDY A 142      28.910  -4.865 -19.145  1.00 97.03     0.216 C 
+HETATM   28  C4  IDY A 142      26.917  -6.341 -19.133  1.00 89.02     0.189 C 
+HETATM   29  O2  IDY A 142      27.837  -9.541 -19.544  1.00 85.27    -0.233 OA
+HETATM   30  O4  IDY A 142      27.535  -6.467 -20.608  1.00 80.75    -0.326 OA
+HETATM   31  O62 IDY A 142      29.719  -5.266 -20.031  1.00 97.39    -0.646 OA
+HETATM   32  O1  IDY A 142      28.813  -8.719 -16.131  1.00 89.49    -0.326 OA
+HETATM   33  OS2 IDY A 142      27.349 -11.995 -19.341  1.00 82.91    -0.572 OA
+HETATM   34  C3  IDY A 142      26.347  -7.711 -18.731  1.00 88.45     0.216 C 
+HETATM   35  S   IDY A 142      28.425 -10.982 -19.438  1.00 85.00     0.252 S 
+HETATM   36  C7  IDY A 142      28.860  -8.523 -15.176  1.00 91.89     0.177 C 
+HETATM   37  O3  IDY A 142      25.485  -7.556 -17.585  1.00 93.22    -0.218 OA
+ENDROOT
+TORSDOF 11

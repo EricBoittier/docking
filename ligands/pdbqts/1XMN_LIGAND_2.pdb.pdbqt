@@ -1,0 +1,144 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: S_9225  and  O2_9220 
+REMARK       I    between atoms: O1_9219  and  C1_9213 
+REMARK       I    between atoms: O1_9219  and  C4_9232 
+REMARK       I    between atoms: C6_9218  and  C5_9217 
+REMARK       I    between atoms: O2_9220  and  C2_9214 
+REMARK       I    between atoms: C4_9216  and  O1_9201 
+REMARK       I    between atoms: N_9200  and  C2_9195 
+REMARK       I    between atoms: N_9200  and  S1_9205 
+REMARK       I    between atoms: C6_9199  and  C5_9198 
+REMARK       I    between atoms: C6_9199  and  O6_9204 
+REMARK       I    between atoms: S2_9209  and  O6_9204 
+REMARK       I    between atoms: O1_9201  and  C1_9194 
+REMARK       I    between atoms: C5_9252  and  C6_9253 
+REMARK       I    between atoms: O2_9255  and  C2_9249 
+REMARK       I    between atoms: O2_9255  and  S_9260 
+REMARK       I    between atoms: O1_9236  and  C4_9251 
+REMARK       I    between atoms: C1_9248  and  O1_9254 
+REMARK       I    between atoms: C4_9267  and  O1_9254 
+REMARK       I    between atoms: C2_9230  and  N_9235 
+REMARK       I    between atoms: N_9235  and  S1_9240 
+REMARK       I    between atoms: O1_9236  and  C1_9229 
+REMARK       I    between atoms: S2_9244  and  O6_9239 
+REMARK       I    between atoms: O6_9239  and  C6_9234 
+REMARK       I    between atoms: C5_9233  and  C6_9234 
+REMARK       I    between atoms: C2_9284  and  O2_9290 
+REMARK       I    between atoms: C6_9288  and  C5_9287 
+REMARK       I    between atoms: O2_9290  and  S_9295 
+REMARK       I    between atoms: O1_9271  and  C4_9286 
+REMARK       I    between atoms: C1_9264  and  O1_9271 
+REMARK       I    between atoms: C6_9269  and  C5_9268 
+REMARK       I    between atoms: C6_9269  and  O6_9274 
+REMARK       I    between atoms: S1_9275  and  N_9270 
+REMARK       I    between atoms: O6_9274  and  S2_9279 
+REMARK       I    between atoms: C2_9265  and  N_9270 
+ROOT
+HETATM    1  S   IDS B   3      67.023 -12.368  11.375  1.00102.70     0.252 S 
+HETATM    2  O1  IDS B   3      65.229 -14.132  15.255  1.00 99.68    -0.326 OA
+HETATM    3  C6  IDS B   3      68.357 -12.305  17.506  1.00 99.63     0.216 C 
+HETATM    4  O2  IDS B   3      67.034 -12.106  12.909  1.00101.65    -0.233 OA
+HETATM    5  O61 IDS B   3      69.515 -12.415  17.162  1.00 99.45    -0.646 OA
+HETATM    6  O3S IDS B   3      66.531 -13.707  11.199  1.00102.30    -0.572 OA
+HETATM    7  C1  IDS B   3      66.380 -13.643  14.620  1.00 99.98     0.269 C 
+HETATM    8  O1S IDS B   3      66.160 -11.373  10.813  1.00102.63    -0.572 OA
+HETATM    9  O3  IDS B   3      64.635 -11.209  15.467  1.00100.32    -0.218 OA
+HETATM   10  C2  IDS B   3      66.006 -12.356  13.840  1.00100.64     0.226 C 
+HETATM   11  C4  IDS B   3      67.018 -10.968  15.734  1.00100.53     0.189 C 
+HETATM   12  O62 IDS B   3      68.127 -12.186  18.687  1.00 99.34    -0.646 OA
+HETATM   13  O5  IDS B   3      67.445 -13.370  15.535  1.00 99.75    -0.318 OA
+HETATM   14  C3  IDS B   3      65.845 -11.105  14.735  1.00100.47     0.216 C 
+HETATM   15  O2S IDS B   3      68.393 -12.225  10.962  1.00102.31    -0.572 OA
+HETATM   16  C5  IDS B   3      67.219 -12.312  16.487  1.00 99.73     0.234 C 
+HETATM   17  N   SGN B   2      70.388  -9.314  13.869  1.00104.32    -0.162 NA
+HETATM   18  S1  SGN B   2      70.739  -8.645  12.406  1.00105.59     0.227 S 
+HETATM   19  C2  SGN B   2      69.786  -8.490  14.932  1.00103.04     0.205 C 
+HETATM   20  C4  SGN B   2      69.874  -7.693  17.294  1.00102.70     0.068 C 
+HETATM   21  O1S SGN B   2      70.677  -7.215  12.512  1.00105.20    -0.577 OA
+HETATM   22  O3  SGN B   2      71.893  -8.163  16.079  1.00102.05    -0.221 OA
+HETATM   23  C6  SGN B   2      67.579  -7.358  18.460  1.00103.82     0.195 C 
+HETATM   24  O4S SGN B   2      66.822  -3.741  17.897  1.00105.50    -0.572 OA
+HETATM   25  O6S SGN B   2      66.263  -5.083  19.796  1.00105.06    -0.572 OA
+HETATM   26  O5  SGN B   2      67.711  -8.205  16.204  1.00102.66    -0.329 OA
+HETATM   27  S2  SGN B   2      66.322  -4.998  18.363  1.00105.78     0.252 S 
+HETATM   28  O3S SGN B   2      69.726  -9.154  11.522  1.00105.15    -0.577 OA
+HETATM   29  O1  SGN B   2      68.279 -10.356  15.424  1.00102.10    -0.326 OA
+HETATM   30  O5S SGN B   2      65.079  -5.370  17.743  1.00105.36    -0.572 OA
+HETATM   31  C1  SGN B   2      68.322  -8.965  15.147  1.00102.51     0.262 C 
+HETATM   32  C5  SGN B   2      68.415  -8.191  17.480  1.00103.20     0.152 C 
+HETATM   33  O2S SGN B   2      72.050  -9.122  12.065  1.00105.24    -0.577 OA
+HETATM   34  C3  SGN B   2      70.565  -8.604  16.262  1.00102.68     0.183 C 
+HETATM   35  O6  SGN B   2      67.341  -6.087  17.891  1.00104.81    -0.235 OA
+HETATM   36  O3S IDS B   5      63.043 -19.425  20.106  1.00100.80    -0.572 OA
+HETATM   37  O5  IDS B   5      60.062 -17.867  16.212  1.00 98.13    -0.318 OA
+HETATM   38  C5  IDS B   5      60.903 -18.582  15.292  1.00 98.05     0.234 C 
+HETATM   39  O2  IDS B   5      61.047 -18.592  19.021  1.00100.12    -0.233 OA
+HETATM   40  O3  IDS B   5      61.192 -21.281  16.629  1.00 98.54    -0.218 OA
+HETATM   41  C2  IDS B   5      60.482 -19.453  18.040  1.00 98.81     0.226 C 
+HETATM   42  C4  IDS B   5      62.130 -19.137  16.061  1.00 98.45     0.189 C 
+HETATM   43  C3  IDS B   5      61.638 -20.065  17.203  1.00 98.74     0.216 C 
+HETATM   44  O2S IDS B   5      60.894 -20.021  20.947  1.00100.70    -0.572 OA
+HETATM   45  C6  IDS B   5      61.248 -17.667  14.120  1.00 97.81     0.216 C 
+HETATM   46  S   IDS B   5      61.713 -18.973  20.397  1.00101.57     0.252 S 
+HETATM   47  C1  IDS B   5      59.430 -18.644  17.222  1.00 98.11     0.269 C 
+HETATM   48  O1S IDS B   5      61.691 -17.778  21.191  1.00101.13    -0.572 OA
+HETATM   49  O1  IDS B   5      58.484 -19.536  16.682  1.00 97.71    -0.326 OA
+HETATM   50  O61 IDS B   5      61.164 -16.462  14.208  1.00 97.84    -0.646 OA
+HETATM   51  O62 IDS B   5      61.619 -18.131  13.065  1.00 97.41    -0.646 OA
+HETATM   52  O3S SGN B   4      64.529 -17.129  21.366  1.00101.53    -0.577 OA
+HETATM   53  C2  SGN B   4      64.719 -16.875  17.663  1.00 99.24     0.207 C 
+HETATM   54  O4S SGN B   4      68.981 -17.860  13.730  1.00 96.42    -0.572 OA
+HETATM   55  N   SGN B   4      64.043 -16.981  18.971  1.00100.53    -0.162 NA
+HETATM   56  O1  SGN B   4      62.797 -18.007  16.650  1.00 98.33    -0.326 OA
+HETATM   57  S2  SGN B   4      67.694 -18.123  13.158  1.00 96.90     0.252 S 
+HETATM   58  O6  SGN B   4      66.754 -16.947  13.579  1.00 97.12    -0.235 OA
+HETATM   59  C5  SGN B   4      64.673 -16.685  14.755  1.00 98.24     0.179 C 
+HETATM   60  O3  SGN B   4      64.915 -14.465  17.785  1.00 99.37    -0.218 OA
+HETATM   61  O5S SGN B   4      67.078 -19.304  13.701  1.00 96.32    -0.572 OA
+HETATM   62  C3  SGN B   4      64.442 -15.522  16.970  1.00 99.23     0.210 C 
+HETATM   63  O2S SGN B   4      63.774 -15.047  20.476  1.00101.70    -0.577 OA
+HETATM   64  S1  SGN B   4      64.635 -16.182  20.290  1.00101.94     0.227 S 
+HETATM   65  C4  SGN B   4      65.208 -15.508  15.627  1.00 99.01     0.180 C 
+HETATM   66  O6S SGN B   4      67.705 -18.120  11.725  1.00 96.70    -0.572 OA
+HETATM   67  O5  SGN B   4      64.813 -17.952  15.458  1.00 98.36    -0.327 OA
+HETATM   68  C1  SGN B   4      64.208 -18.032  16.757  1.00 98.51     0.263 C 
+HETATM   69  O1S SGN B   4      66.000 -15.811  20.047  1.00101.74    -0.577 OA
+HETATM   70  C6  SGN B   4      65.358 -16.844  13.386  1.00 97.73     0.198 C 
+HETATM   71  O5  IDS B   7      54.765 -25.158  14.424  1.00100.33    -0.316 OA
+HETATM   72  O62 IDS B   7      52.126 -25.207  15.503  1.00 99.31    -0.646 OA
+HETATM   73  C2  IDS B   7      55.903 -24.058  12.524  1.00101.07     0.229 C 
+HETATM   74  C6  IDS B   7      52.741 -24.172  15.358  1.00 99.57     0.216 C 
+HETATM   75  O1  IDS B   7      55.114 -26.296  12.416  1.00100.49    -0.187 OA
+HETATM   76  O2  IDS B   7      57.124 -24.189  11.767  1.00102.53    -0.232 OA
+HETATM   77  O2S IDS B   7      58.856 -23.668  13.429  1.00103.91    -0.572 OA
+HETATM   78  C5  IDS B   7      53.847 -24.047  14.307  1.00 99.92     0.234 C 
+HETATM   79  O61 IDS B   7      52.442 -23.239  16.071  1.00 99.25    -0.646 OA
+HETATM   80  O3  IDS B   7      56.195 -21.680  12.747  1.00100.29    -0.218 OA
+HETATM   81  O1S IDS B   7      58.587 -22.325  11.475  1.00103.48    -0.572 OA
+HETATM   82  O3S IDS B   7      59.455 -24.539  11.284  1.00104.05    -0.572 OA
+HETATM   83  C1  IDS B   7      55.651 -25.369  13.312  1.00100.82     0.301 C 
+HETATM   84  C3  IDS B   7      55.980 -22.860  13.496  1.00100.65     0.216 C 
+HETATM   85  S   IDS B   7      58.594 -23.656  12.016  1.00103.53     0.252 S 
+HETATM   86  C4  IDS B   7      54.672 -22.712  14.340  1.00 99.70     0.189 C 
+HETATM   87  C1  SGN B   6      54.832 -20.831  15.935  1.00 97.72     0.263 C 
+HETATM   88  C6  SGN B   6      56.883 -20.388  19.075  1.00 99.31     0.198 C 
+HETATM   89  O3  SGN B   6      57.159 -18.185  14.571  1.00 97.07    -0.218 OA
+HETATM   90  O1S SGN B   6      54.155 -17.284  13.695  1.00 94.99    -0.577 OA
+HETATM   91  O2S SGN B   6      55.548 -18.188  11.970  1.00 95.48    -0.577 OA
+HETATM   92  S1  SGN B   6      54.422 -18.400  12.835  1.00 95.52     0.227 S 
+HETATM   93  O6  SGN B   6      56.836 -19.029  19.513  1.00101.01    -0.235 OA
+HETATM   94  O5  SGN B   6      55.244 -20.715  17.308  1.00 98.07    -0.327 OA
+HETATM   95  O3S SGN B   6      53.250 -18.807  12.113  1.00 95.29    -0.577 OA
+HETATM   96  O5S SGN B   6      56.635 -17.581  21.401  1.00100.86    -0.572 OA
+HETATM   97  C2  SGN B   6      55.235 -19.543  15.150  1.00 97.13     0.207 C 
+HETATM   98  C4  SGN B   6      57.104 -19.164  16.761  1.00 97.53     0.180 C 
+HETATM   99  C3  SGN B   6      56.765 -19.348  15.269  1.00 97.09     0.210 C 
+HETATM  100  O4S SGN B   6      58.616 -17.476  20.089  1.00101.01    -0.572 OA
+HETATM  101  S2  SGN B   6      57.627 -18.326  20.684  1.00101.31     0.252 S 
+HETATM  102  N   SGN B   6      54.810 -19.706  13.751  1.00 96.20    -0.162 NA
+HETATM  103  C5  SGN B   6      56.657 -20.444  17.540  1.00 98.32     0.179 C 
+HETATM  104  O6S SGN B   6      58.195 -19.372  21.487  1.00101.24    -0.572 OA
+HETATM  105  O1  SGN B   6      55.406 -22.001  15.354  1.00 98.20    -0.326 OA
+ENDROOT
+TORSDOF 34

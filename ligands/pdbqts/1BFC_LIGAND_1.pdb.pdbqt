@@ -1,0 +1,144 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C1_1067  and  O4_1091 
+REMARK       I    between atoms: C5_1071  and  C6_1072 
+REMARK       I    between atoms: S_1078  and  O2_1073 
+REMARK       I    between atoms: O1_1054  and  C4_1070 
+REMARK       I    between atoms: C2_1068  and  O2_1073 
+REMARK       I    between atoms: C6_1037  and  C5_1036 
+REMARK       I    between atoms: O4_1056  and  C1_1032 
+REMARK       I    between atoms: S_1043  and  O2_1038 
+REMARK       I    between atoms: C4_1035  and  O1_1019 
+REMARK       I    between atoms: C2_1033  and  O2_1038 
+REMARK       I    between atoms: C6_1087  and  C5_1086 
+REMARK       I    between atoms: C6_1087  and  O6_1093 
+REMARK       I    between atoms: S1_1094  and  N_1088 
+REMARK       I    between atoms: O6_1093  and  S2_1098 
+REMARK       I    between atoms: O4_1091  and  C4_1085 
+REMARK       I    between atoms: N_1088  and  C2_1083 
+REMARK       I    between atoms: C1_1012  and  O1_1019 
+REMARK       I    between atoms: O4_1021  and  C1_997 
+REMARK       I    between atoms: O4_1021  and  C4_1015 
+REMARK       I    between atoms: O6_1023  and  C6_1017 
+REMARK       I    between atoms: O6_1023  and  S2_1028 
+REMARK       I    between atoms: N_1018  and  C2_1013 
+REMARK       I    between atoms: N_1018  and  S1_1024 
+REMARK       I    between atoms: C5_1016  and  C6_1017 
+REMARK       I    between atoms: C1_1047  and  O1_1054 
+REMARK       I    between atoms: S2_1063  and  O6_1058 
+REMARK       I    between atoms: O4_1056  and  C4_1050 
+REMARK       I    between atoms: C6_1052  and  C5_1051 
+REMARK       I    between atoms: C6_1052  and  O6_1058 
+REMARK       I    between atoms: S1_1059  and  N_1053 
+REMARK       I    between atoms: N_1053  and  C2_1048 
+REMARK       I    between atoms: C2_998  and  O2_1003 
+REMARK       I    between atoms: C5_1001  and  C6_1002 
+REMARK       I    between atoms: O2_1003  and  S_1008 
+ROOT
+HETATM    1  C3  IDS A 305      -3.466   2.502  56.155  1.00 37.21     0.216 C 
+HETATM    2  O3S IDS A 305      -8.005   2.373  57.761  1.00 50.29    -0.572 OA
+HETATM    3  C1  IDS A 305      -5.539   3.261  55.077  1.00 35.60     0.269 C 
+HETATM    4  O62 IDS A 305      -2.964   3.798  52.092  1.00 36.84    -0.646 OA
+HETATM    5  O5  IDS A 305      -4.596   3.498  54.054  1.00 33.84    -0.318 OA
+HETATM    6  O61 IDS A 305      -2.681   1.612  51.823  1.00 38.69    -0.646 OA
+HETATM    7  O1S IDS A 305      -6.560   1.531  59.468  1.00 53.93    -0.572 OA
+HETATM    8  C5  IDS A 305      -3.926   2.302  53.696  1.00 38.61     0.234 C 
+HETATM    9  S   IDS A 305      -6.733   1.727  58.045  1.00 52.72     0.252 S 
+HETATM   10  C6  IDS A 305      -3.143   2.597  52.424  1.00 40.17     0.216 C 
+HETATM   11  C4  IDS A 305      -2.962   1.932  54.842  1.00 36.47     0.189 C 
+HETATM   12  O3  IDS A 305      -2.942   1.756  57.205  1.00 35.84    -0.218 OA
+HETATM   13  O2S IDS A 305      -6.657   0.463  57.371  1.00 52.98    -0.572 OA
+HETATM   14  C2  IDS A 305      -4.942   2.322  56.136  1.00 38.58     0.226 C 
+HETATM   15  O2  IDS A 305      -5.393   2.682  57.419  1.00 46.22    -0.233 OA
+HETATM   16  C6  IDS A 303       5.667   2.963  53.367  1.00 19.33     0.216 C 
+HETATM   17  O61 IDS A 303       6.321   3.993  53.287  1.00 21.80    -0.646 OA
+HETATM   18  C5  IDS A 303       4.682   2.647  52.298  1.00 18.34     0.234 C 
+HETATM   19  C1  IDS A 303       2.961   1.134  51.722  1.00 22.01     0.269 C 
+HETATM   20  O3  IDS A 303       3.208   3.617  50.018  1.00 15.60    -0.218 OA
+HETATM   21  O2S IDS A 303       2.617  -0.345  47.873  1.00 24.68    -0.572 OA
+HETATM   22  O5  IDS A 303       4.116   1.353  52.541  1.00 18.17    -0.318 OA
+HETATM   23  C3  IDS A 303       4.083   2.545  49.919  1.00 13.23     0.216 C 
+HETATM   24  S   IDS A 303       3.037  -0.958  49.077  1.00 15.40     0.252 S 
+HETATM   25  C4  IDS A 303       5.269   2.694  50.894  1.00 17.80     0.189 C 
+HETATM   26  O1S IDS A 303       3.835  -2.099  48.855  1.00 16.64    -0.572 OA
+HETATM   27  C2  IDS A 303       3.323   1.294  50.245  1.00 16.83     0.226 C 
+HETATM   28  O3S IDS A 303       1.846  -1.263  49.778  1.00 16.75    -0.572 OA
+HETATM   29  O2  IDS A 303       4.027   0.204  49.849  1.00 18.06    -0.233 OA
+HETATM   30  O62 IDS A 303       5.615   2.272  54.362  1.00 23.12    -0.646 OA
+HETATM   31  C6  SGN A 306      -8.060   4.822  55.666  1.00 38.97     0.198 C 
+HETATM   32  S1  SGN A 306     -10.090   3.601  49.174  1.00 40.85     0.227 S 
+HETATM   33  C5  SGN A 306      -8.594   3.981  54.519  1.00 37.40     0.179 C 
+HETATM   34  C3  SGN A 306      -7.907   2.817  52.419  1.00 37.81     0.210 C 
+HETATM   35  C1  SGN A 306     -10.059   4.130  52.604  1.00 37.21     0.295 C 
+HETATM   36  O1S SGN A 306     -10.637   2.562  48.340  1.00 42.85    -0.577 OA
+HETATM   37  O6  SGN A 306      -7.062   5.709  55.165  1.00 37.04    -0.235 OA
+HETATM   38  S2  SGN A 306      -6.589   7.130  56.110  1.00 43.03     0.252 S 
+HETATM   39  O4S SGN A 306      -5.342   6.897  56.783  1.00 37.06    -0.572 OA
+HETATM   40  O1  SGN A 306     -10.822   2.997  52.993  1.00 37.88    -0.188 OA
+HETATM   41  O4  SGN A 306      -6.631   2.636  54.438  1.00 32.36    -0.326 OA
+HETATM   42  C4  SGN A 306      -7.417   3.540  53.664  1.00 36.81     0.180 C 
+HETATM   43  N   SGN A 306      -9.504   2.850  50.656  1.00 39.61    -0.162 NA
+HETATM   44  O2S SGN A 306      -8.971   4.223  48.526  1.00 36.94    -0.577 OA
+HETATM   45  O5  SGN A 306      -9.499   4.790  53.732  1.00 39.47    -0.325 OA
+HETATM   46  O6S SGN A 306      -6.432   8.229  55.195  1.00 42.25    -0.572 OA
+HETATM   47  C2  SGN A 306      -8.923   3.686  51.686  1.00 39.05     0.210 C 
+HETATM   48  O3S SGN A 306     -11.111   4.571  49.475  1.00 39.87    -0.577 OA
+HETATM   49  O5S SGN A 306      -7.641   7.430  57.050  1.00 37.86    -0.572 OA
+HETATM   50  O3  SGN A 306      -6.798   2.693  51.539  1.00 36.78    -0.218 OA
+HETATM   51  C1  SGN A 302       7.494   1.847  50.388  1.00 16.30     0.263 C 
+HETATM   52  O4  SGN A 302       8.929  -1.478  52.417  1.00 19.34    -0.326 OA
+HETATM   53  O6  SGN A 302      10.627   1.015  53.100  1.00 23.96    -0.235 OA
+HETATM   54  O3S SGN A 302       6.464   2.531  47.508  1.00 21.02    -0.577 OA
+HETATM   55  S2  SGN A 302      11.769   2.013  53.898  1.00 31.12     0.252 S 
+HETATM   56  O5  SGN A 302       8.369   2.017  51.505  1.00 15.76    -0.327 OA
+HETATM   57  O1S SGN A 302       5.817   0.577  46.385  1.00 21.92    -0.577 OA
+HETATM   58  O6S SGN A 302      11.137   3.281  54.146  1.00 27.80    -0.572 OA
+HETATM   59  N   SGN A 302       6.945   0.298  48.688  1.00 21.48    -0.162 NA
+HETATM   60  O5S SGN A 302      12.072   1.396  55.139  1.00 36.95    -0.572 OA
+HETATM   61  C4  SGN A 302       9.068  -0.313  51.603  1.00 17.88     0.180 C 
+HETATM   62  O3  SGN A 302       8.742  -1.623  49.674  1.00 15.71    -0.218 OA
+HETATM   63  C2  SGN A 302       8.008   0.659  49.577  1.00 18.70     0.207 C 
+HETATM   64  O2S SGN A 302       8.053   1.187  46.578  1.00 18.22    -0.577 OA
+HETATM   65  O1  SGN A 302       6.151   1.579  50.786  1.00 15.33    -0.326 OA
+HETATM   66  C5  SGN A 302       8.458   0.874  52.348  1.00 17.42     0.179 C 
+HETATM   67  S1  SGN A 302       6.805   1.192  47.206  1.00 19.61     0.227 S 
+HETATM   68  C6  SGN A 302       9.312   1.248  53.503  1.00 17.05     0.198 C 
+HETATM   69  O4S SGN A 302      12.942   2.098  53.107  1.00 33.01    -0.572 OA
+HETATM   70  C3  SGN A 302       8.171  -0.581  50.431  1.00 18.66     0.210 C 
+HETATM   71  O2S SGN A 304       0.206   5.512  58.022  1.00 52.30    -0.577 OA
+HETATM   72  C1  SGN A 304      -0.663   1.762  55.335  1.00 37.86     0.263 C 
+HETATM   73  S2  SGN A 304       1.531  -2.291  54.307  1.00 61.42     0.252 S 
+HETATM   74  O4  SGN A 304       1.873   1.969  52.085  1.00 28.49    -0.326 OA
+HETATM   75  C6  SGN A 304       0.426  -0.448  52.543  1.00 46.98     0.198 C 
+HETATM   76  O4S SGN A 304       2.551  -2.694  53.390  1.00 62.55    -0.572 OA
+HETATM   77  O1  SGN A 304      -1.664   2.453  54.615  1.00 35.14    -0.326 OA
+HETATM   78  O5  SGN A 304      -0.268   0.593  54.634  1.00 39.24    -0.327 OA
+HETATM   79  S1  SGN A 304       0.237   4.103  57.783  1.00 50.72     0.227 S 
+HETATM   80  O5S SGN A 304       1.057  -3.426  55.039  1.00 62.81    -0.572 OA
+HETATM   81  C3  SGN A 304       1.031   3.031  54.073  1.00 35.36     0.210 C 
+HETATM   82  N   SGN A 304       0.042   3.913  56.033  1.00 46.31    -0.162 NA
+HETATM   83  O1S SGN A 304      -0.816   3.441  58.502  1.00 45.54    -0.577 OA
+HETATM   84  O6  SGN A 304       0.190  -1.585  53.377  1.00 58.18    -0.235 OA
+HETATM   85  C4  SGN A 304       1.400   1.719  53.394  1.00 34.32     0.180 C 
+HETATM   86  C5  SGN A 304       0.173   0.843  53.307  1.00 39.41     0.179 C 
+HETATM   87  C2  SGN A 304       0.514   2.695  55.441  1.00 38.06     0.207 C 
+HETATM   88  O6S SGN A 304       2.057  -1.318  55.229  1.00 62.78    -0.572 OA
+HETATM   89  O3  SGN A 304       2.153   3.874  54.220  1.00 27.63    -0.218 OA
+HETATM   90  O3S SGN A 304       1.508   3.558  58.185  1.00 52.19    -0.577 OA
+HETATM   91  O1S UAP A 301      11.351  -2.232  56.234  1.00 33.38    -0.572 OA
+HETATM   92  C3  UAP A 301       8.988  -4.308  53.124  1.00 22.44     0.210 C 
+HETATM   93  O62 UAP A 301      12.294  -3.721  49.890  1.00 30.28    -0.642 OA
+HETATM   94  C2  UAP A 301       9.748  -3.216  53.834  1.00 23.62     0.228 C 
+HETATM   95  O61 UAP A 301      11.010  -5.451  49.781  1.00 31.49    -0.642 OA
+HETATM   96  C1  UAP A 301      10.124  -2.097  52.886  1.00 23.10     0.273 C 
+HETATM   97  C5  UAP A 301      10.494  -3.837  51.265  1.00 28.06     0.159 C 
+HETATM   98  C4  UAP A 301       9.528  -4.606  51.810  1.00 21.20     0.039 C 
+HETATM   99  O3S UAP A 301      10.395  -4.350  56.680  1.00 29.83    -0.572 OA
+HETATM  100  C6  UAP A 301      11.258  -4.330  50.245  1.00 30.32     0.234 C 
+HETATM  101  O5  UAP A 301      10.908  -2.670  51.849  1.00 27.87    -0.298 OA
+HETATM  102  O2S UAP A 301      12.699  -4.110  56.140  1.00 30.40    -0.572 OA
+HETATM  103  O2  UAP A 301      10.960  -3.774  54.250  1.00 29.50    -0.232 OA
+HETATM  104  O3  UAP A 301       7.644  -3.987  53.116  1.00 23.70    -0.216 OA
+HETATM  105  S   UAP A 301      11.380  -3.620  55.935  1.00 30.05     0.252 S 
+ENDROOT
+TORSDOF 34

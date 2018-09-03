@@ -1,0 +1,72 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: N2_2729  and  C2_2722 
+REMARK       I    between atoms: N2_2729  and  C7_2727 
+REMARK       I    between atoms: O3_2730  and  C1_2709 
+REMARK       I    between atoms: O3_2730  and  C3_2723 
+REMARK       I    between atoms: C5_2725  and  C6_2726 
+REMARK       I    between atoms: C7_2701  and  N2_2703 
+REMARK       I    between atoms: N2_2703  and  C2_2696 
+REMARK       I    between atoms: C6_2700  and  C5_2699 
+REMARK       I    between atoms: C3_2697  and  O3_2704 
+REMARK       I    between atoms: O4_2717  and  C1_2695 
+REMARK       I    between atoms: C1_2683  and  O3_2704 
+REMARK       I    between atoms: C6_2688  and  C5_2687 
+REMARK       I    between atoms: C5_2713  and  C6_2714 
+REMARK       I    between atoms: O4_2717  and  C4_2712 
+ROOT
+HETATM    1  C8  NAG A 404      -1.249  33.028  -4.169  1.00 22.85     0.100 C 
+HETATM    2  O6  NAG A 404      -3.836  25.972  -4.766  1.00 58.98    -0.218 OA
+HETATM    3  N2  NAG A 404      -0.378  30.835  -3.614  1.00 34.30    -0.232 NA
+HETATM    4  O3  NAG A 404       1.595  28.798  -5.030  1.00 34.66    -0.327 OA
+HETATM    5  C3  NAG A 404       0.211  28.790  -4.924  1.00 38.78     0.178 C 
+HETATM    6  O4  NAG A 404       0.040  26.779  -6.345  1.00 44.74    -0.218 OA
+HETATM    7  C7  NAG A 404      -1.423  31.537  -4.155  1.00 27.95     0.252 C 
+HETATM    8  C5  NAG A 404      -1.913  27.534  -5.204  1.00 49.40     0.184 C 
+HETATM    9  C6  NAG A 404      -2.628  26.237  -5.496  1.00 54.74     0.214 C 
+HETATM   10  O5  NAG A 404      -2.358  28.127  -3.988  1.00 44.30    -0.325 OA
+HETATM   11  C1  NAG A 404      -1.394  28.586  -3.092  1.00 41.03     0.294 C 
+HETATM   12  O7  NAG A 404      -2.436  31.001  -4.597  1.00 32.20    -0.271 OA
+HETATM   13  C4  NAG A 404      -0.386  27.398  -5.126  1.00 45.78     0.211 C 
+HETATM   14  C2  NAG A 404      -0.221  29.369  -3.584  1.00 37.33     0.195 C 
+HETATM   15  O4  NAG A 402       9.004  27.781 -11.807  1.00 45.70    -0.218 OA
+HETATM   16  O5  NAG A 402       6.875  28.601  -8.983  1.00 37.22    -0.327 OA
+HETATM   17  C7  NAG A 402       6.044  32.849 -10.775  1.00 26.28     0.252 C 
+HETATM   18  N2  NAG A 402       5.910  31.515 -11.028  1.00 27.79    -0.232 NA
+HETATM   19  C8  NAG A 402       5.062  33.803 -11.433  1.00 25.67     0.100 C 
+HETATM   20  C2  NAG A 402       6.817  30.504 -10.462  1.00 31.44     0.192 C 
+HETATM   21  O6  NAG A 402       9.061  27.229  -8.014  1.00 33.43    -0.218 OA
+HETATM   22  C6  NAG A 402       8.309  26.721  -9.113  1.00 37.61     0.214 C 
+HETATM   23  C3  NAG A 402       7.604  29.720 -11.498  1.00 35.41     0.178 C 
+HETATM   24  O7  NAG A 402       6.906  33.311 -10.056  1.00 30.43    -0.271 OA
+HETATM   25  C1  NAG A 402       6.006  29.550  -9.580  1.00 31.18     0.262 C 
+HETATM   26  C4  NAG A 402       8.426  28.623 -10.806  1.00 38.36     0.211 C 
+HETATM   27  C5  NAG A 402       7.558  27.757  -9.913  1.00 37.67     0.184 C 
+HETATM   28  O3  NAG A 402       8.569  30.541 -12.111  1.00 41.32    -0.327 OA
+HETATM   29  O4  GCU A 401       9.028  32.672 -17.010  1.00 54.64    -0.217 OA
+HETATM   30  C4  GCU A 401       9.494  32.050 -15.808  1.00 50.97     0.223 C 
+HETATM   31  C6  GCU A 401       8.830  29.723 -16.579  1.00 51.54     0.217 C 
+HETATM   32  C2  GCU A 401       9.323  32.357 -13.343  1.00 47.37     0.241 C 
+HETATM   33  O3  GCU A 401      10.308  34.045 -14.790  1.00 54.30    -0.218 OA
+HETATM   34  C1  GCU A 401       8.433  31.116 -13.284  1.00 43.02     0.270 C 
+HETATM   35  O2  GCU A 401       8.947  33.280 -12.333  1.00 45.52    -0.215 OA
+HETATM   36  O6B GCU A 401       8.974  30.229 -17.712  1.00 53.66    -0.646 OA
+HETATM   37  C3  GCU A 401       9.277  33.050 -14.683  1.00 51.08     0.221 C 
+HETATM   38  O5  GCU A 401       8.924  30.235 -14.296  1.00 47.19    -0.318 OA
+HETATM   39  C5  GCU A 401       8.647  30.790 -15.569  1.00 50.90     0.237 C 
+HETATM   40  O6A GCU A 401       8.786  28.558 -16.130  1.00 47.41    -0.646 OA
+HETATM   41  O4  GCU A 405      -1.949  28.854  -1.891  1.00 51.12    -0.188 OA
+HETATM   42  O2  GCU A 403       3.830  29.814  -4.152  1.00 37.21    -0.215 OA
+HETATM   43  C5  GCU A 403       2.981  29.868  -8.231  1.00 27.23     0.234 C 
+HETATM   44  O5  GCU A 403       2.140  29.282  -7.274  1.00 29.75    -0.318 OA
+HETATM   45  C6  GCU A 403       2.597  29.376  -9.580  1.00 29.33     0.216 C 
+HETATM   46  C3  GCU A 403       4.654  30.063  -6.386  1.00 32.30     0.217 C 
+HETATM   47  O3  GCU A 403       6.035  29.901  -6.029  1.00 35.00    -0.218 OA
+HETATM   48  C1  GCU A 403       2.279  29.479  -5.895  1.00 32.90     0.270 C 
+HETATM   49  O4  GCU A 403       5.338  30.278  -8.687  1.00 29.44    -0.326 OA
+HETATM   50  O6A GCU A 403       2.379  28.150  -9.726  1.00 34.69    -0.646 OA
+HETATM   51  C2  GCU A 403       3.736  29.289  -5.477  1.00 30.00     0.241 C 
+HETATM   52  C4  GCU A 403       4.440  29.632  -7.827  1.00 28.03     0.189 C 
+HETATM   53  O6B GCU A 403       2.523  30.230 -10.486  1.00 25.77    -0.646 OA
+ENDROOT
+TORSDOF 12

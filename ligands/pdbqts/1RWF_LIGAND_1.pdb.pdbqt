@@ -1,0 +1,83 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: O3_5670  and  C1_5649 
+REMARK       I    between atoms: O3_5670  and  C3_5662 
+REMARK       I    between atoms: C6_5665  and  C5_5664 
+REMARK       I    between atoms: N_5669  and  C2_5661 
+REMARK       I    between atoms: N_5669  and  C7_5666 
+REMARK       I    between atoms: C4_5663  and  O4_5671 
+REMARK       I    between atoms: O4_5671  and  S_5678 
+REMARK       I    between atoms: C4_5654  and  O1_5638 
+REMARK       I    between atoms: C6_5656  and  C5_5655 
+REMARK       I    between atoms: O3_5640  and  C1_5619 
+REMARK       I    between atoms: O3_5640  and  C3_5632 
+REMARK       I    between atoms: O4_5641  and  C4_5633 
+REMARK       I    between atoms: O4_5641  and  S_5648 
+REMARK       I    between atoms: C6_5635  and  C5_5634 
+REMARK       I    between atoms: O1_5638  and  C1_5630 
+REMARK       I    between atoms: C2_5631  and  N_5639 
+REMARK       I    between atoms: C7_5636  and  N_5639 
+REMARK       I    between atoms: C5_5625  and  C6_5626 
+ROOT
+HETATM    1  O6  ASG A 812       5.060  49.915  73.578  0.60 31.31    -0.218 OA
+HETATM    2  O3  ASG A 812       3.191  46.237  78.146  0.60 21.53    -0.327 OA
+HETATM    3  OSA ASG A 812       0.735  49.094  75.720  0.60 38.59    -0.572 OA
+HETATM    4  C6  ASG A 812       3.970  49.517  74.410  0.60 28.07     0.214 C 
+HETATM    5  C3  ASG A 812       4.086  46.817  77.181  0.60 23.26     0.176 C 
+HETATM    6  N   ASG A 812       5.890  46.486  78.684  0.60 24.32    -0.232 NA
+HETATM    7  O5  ASG A 812       5.395  49.269  76.375  0.60 26.23    -0.325 OA
+HETATM    8  C4  ASG A 812       3.415  47.863  76.313  0.60 27.56     0.196 C 
+HETATM    9  C1  ASG A 812       6.109  48.318  77.144  0.60 24.30     0.294 C 
+HETATM   10  OSB ASG A 812       0.587  49.891  77.897  0.60 38.45    -0.572 OA
+HETATM   11  OSC ASG A 812       2.052  51.121  76.294  0.60 37.47    -0.572 OA
+HETATM   12  C7  ASG A 812       6.239  46.534  79.983  0.60 26.24     0.252 C 
+HETATM   13  C5  ASG A 812       4.496  48.575  75.477  0.60 26.16     0.182 C 
+HETATM   14  O4  ASG A 812       2.732  48.746  77.213  0.60 33.00    -0.235 OA
+HETATM   15  O7  ASG A 812       6.165  47.619  80.625  0.60 26.10    -0.271 OA
+HETATM   16  C8  ASG A 812       6.726  45.185  80.504  0.60 25.12     0.100 C 
+HETATM   17  S   ASG A 812       1.466  49.696  76.794  0.60 39.52     0.252 S 
+HETATM   18  O1  ASG A 812       7.004  48.999  78.021  0.60 24.10    -0.188 OA
+HETATM   19  C2  ASG A 812       5.141  47.516  78.013  0.60 23.26     0.195 C 
+HETATM   20  O3  GCT A 811       1.780  41.939  79.868  0.60 21.88    -0.218 OA
+HETATM   21  C4  GCT A 811       0.727  43.108  78.044  0.60 26.50     0.189 C 
+HETATM   22  C6  GCT A 811      -0.344  45.221  77.011  0.60 33.09     0.216 C 
+HETATM   23  O6A GCT A 811      -0.160  46.375  76.521  0.60 35.73    -0.646 OA
+HETATM   24  C2  GCT A 811       2.628  44.120  79.132  0.60 24.21     0.241 C 
+HETATM   25  O6B GCT A 811      -1.415  44.859  77.543  0.60 35.09    -0.646 OA
+HETATM   26  O2  GCT A 811       3.879  43.903  79.713  0.60 23.40    -0.215 OA
+HETATM   27  C3  GCT A 811       2.041  42.781  78.756  0.60 24.24     0.217 C 
+HETATM   28  C1  GCT A 811       2.957  44.864  77.843  0.60 24.52     0.270 C 
+HETATM   29  O5  GCT A 811       2.059  44.722  76.755  0.60 27.29    -0.318 OA
+HETATM   30  C5  GCT A 811       0.768  44.170  76.939  0.60 28.51     0.234 C 
+HETATM   31  O3  ASG A 810      -2.488  37.996  76.170  0.70 22.67    -0.326 OA
+HETATM   32  C8  ASG A 810      -3.064  40.567  73.326  0.70 12.46     0.100 C 
+HETATM   33  O4  ASG A 810      -0.234  37.447  77.490  0.70 26.01    -0.235 OA
+HETATM   34  C3  ASG A 810      -2.056  38.928  77.193  0.70 19.89     0.176 C 
+HETATM   35  O7  ASG A 810      -0.856  39.616  73.797  0.70 11.28    -0.271 OA
+HETATM   36  C6  ASG A 810       0.414  38.555  80.181  0.70 23.59     0.214 C 
+HETATM   37  O6  ASG A 810       1.079  39.662  80.771  0.70 26.65    -0.218 OA
+HETATM   38  OSA ASG A 810      -0.264  35.520  78.972  0.70 28.68    -0.572 OA
+HETATM   39  O1  ASG A 810       0.156  41.954  76.981  0.70 20.29    -0.326 OA
+HETATM   40  S   ASG A 810      -0.158  35.811  77.549  0.70 29.70     0.252 S 
+HETATM   41  C1  ASG A 810      -0.703  40.985  77.597  0.70 20.29     0.262 C 
+HETATM   42  O5  ASG A 810       0.106  40.246  78.523  0.70 22.91    -0.327 OA
+HETATM   43  OSC ASG A 810       1.324  35.418  77.085  0.70 33.21    -0.572 OA
+HETATM   44  OSB ASG A 810      -1.143  35.143  76.699  0.70 33.22    -0.572 OA
+HETATM   45  C5  ASG A 810      -0.580  39.198  79.220  0.70 22.43     0.182 C 
+HETATM   46  C4  ASG A 810      -1.217  38.198  78.235  0.70 22.25     0.196 C 
+HETATM   47  C2  ASG A 810      -1.190  39.989  76.529  0.70 19.86     0.192 C 
+HETATM   48  C7  ASG A 810      -1.868  40.193  74.192  0.70 13.28     0.252 C 
+HETATM   49  N   ASG A 810      -2.008  40.551  75.486  0.70 15.52    -0.232 NA
+HETATM   50  O5  GAD A 809      -4.528  37.724  77.118  0.70 20.93    -0.298 OA
+HETATM   51  C5  GAD A 809      -5.947  37.604  77.070  0.70 20.39     0.159 C 
+HETATM   52  O2  GAD A 809      -3.607  37.272  73.324  0.70 18.39    -0.215 OA
+HETATM   53  O3  GAD A 809      -6.177  35.590  74.158  0.70 18.09    -0.216 OA
+HETATM   54  O6A GAD A 809      -7.791  38.393  78.240  0.70 18.71    -0.642 OA
+HETATM   55  C4  GAD A 809      -6.506  37.241  75.879  0.70 20.32     0.040 C 
+HETATM   56  C3  GAD A 809      -5.759  36.922  74.559  0.70 17.13     0.212 C 
+HETATM   57  O6B GAD A 809      -5.939  37.885  79.450  0.70 20.74    -0.642 OA
+HETATM   58  C6  GAD A 809      -6.620  37.950  78.354  0.70 21.48     0.234 C 
+HETATM   59  C2  GAD A 809      -4.232  37.028  74.670  0.70 19.43     0.243 C 
+HETATM   60  C1  GAD A 809      -3.881  38.001  75.866  0.70 19.59     0.275 C 
+ENDROOT
+TORSDOF 16

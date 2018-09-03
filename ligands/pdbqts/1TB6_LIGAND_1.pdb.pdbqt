@@ -1,0 +1,394 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C5_5920  and  C6_5922 
+REMARK       I    between atoms: O1_5932  and  C1_5931 
+REMARK       I    between atoms: O1_5932  and  C4_5946 
+REMARK       I    between atoms: O6_5923  and  C6_5922 
+REMARK       I    between atoms: O3_5926  and  C3_5925 
+REMARK       I    between atoms: C2_5928  and  O2_5929 
+REMARK       I    between atoms: O1_5911  and  C4_5919 
+REMARK       I    between atoms: C2_5811  and  O2_5812 
+REMARK       I    between atoms: S2_5813  and  O2_5812 
+REMARK       I    between atoms: O6_5826  and  C6_5825 
+REMARK       I    between atoms: O6_5826  and  S6_5827 
+REMARK       I    between atoms: C6_5825  and  C5_5824 
+REMARK       I    between atoms: O3_5818  and  C3_5817 
+REMARK       I    between atoms: O3_5818  and  S3_5819 
+REMARK       I    between atoms: C4_5848  and  O1_5809 
+REMARK       I    between atoms: O1_5809  and  C1_5810 
+REMARK       I    between atoms: C4_5831  and  O1_5786 
+REMARK       I    between atoms: S6_5996  and  O6_5995 
+REMARK       I    between atoms: O3_5987  and  C3_5986 
+REMARK       I    between atoms: O3_5987  and  S3_5988 
+REMARK       I    between atoms: O2_5981  and  C2_5980 
+REMARK       I    between atoms: O2_5981  and  S2_5982 
+REMARK       I    between atoms: O6_5995  and  C6_5994 
+REMARK       I    between atoms: O1_5964  and  C4_6000 
+REMARK       I    between atoms: C4_6014  and  O1_5978 
+REMARK       I    between atoms: O1_5978  and  C1_5979 
+REMARK       I    between atoms: C5_5993  and  C6_5994 
+REMARK       I    between atoms: C6_5842  and  C5_5841 
+REMARK       I    between atoms: C6_5842  and  O6_5843 
+REMARK       I    between atoms: O1_5832  and  C1_5833 
+REMARK       I    between atoms: O1_5832  and  C4_5862 
+REMARK       I    between atoms: C3_5837  and  O3_5838 
+REMARK       I    between atoms: O6_5843  and  S6_5844 
+REMARK       I    between atoms: O2_5835  and  C2_5834 
+REMARK       I    between atoms: C1_6002  and  O1_6001 
+REMARK       I    between atoms: C2_6003  and  O2_6004 
+REMARK       I    between atoms: C5_6010  and  C6_6011 
+REMARK       I    between atoms: O1_6001  and  C4_6035 
+REMARK       I    between atoms: C3_6006  and  O3_6007 
+REMARK       I    between atoms: O2_5913  and  C2_5912 
+REMARK       I    between atoms: C1_5910  and  O1_5911 
+REMARK       I    between atoms: C3_5915  and  O3_5916 
+REMARK       I    between atoms: O1_5904  and  C4_5918 
+REMARK       I    between atoms: O6_5906  and  C6_5907 
+REMARK       I    between atoms: C6_5907  and  C5_5908 
+REMARK       I    between atoms: S2_5782  and  O2_5781 
+REMARK       I    between atoms: C2_5780  and  O2_5781 
+REMARK       I    between atoms: S3_5776  and  O3_5775 
+REMARK       I    between atoms: S4_5770  and  O4_5769 
+REMARK       I    between atoms: O1_5758  and  C1_5759 
+REMARK       I    between atoms: O1_5758  and  C4_5808 
+REMARK       I    between atoms: C6_5762  and  C5_5761 
+REMARK       I    between atoms: C6_5762  and  O6_5763 
+REMARK       I    between atoms: C3_5774  and  O3_5775 
+REMARK       I    between atoms: O6_5763  and  S6_5764 
+REMARK       I    between atoms: O4_5769  and  C4_5768 
+REMARK       I    between atoms: C1_5903  and  O1_5904 
+REMARK       I    between atoms: O6_5895  and  C6_5894 
+REMARK       I    between atoms: C4_5891  and  O1_5883 
+REMARK       I    between atoms: C5_5892  and  C6_5894 
+REMARK       I    between atoms: C2_5900  and  O2_5901 
+REMARK       I    between atoms: C3_5897  and  O3_5898 
+REMARK       I    between atoms: C1_5854  and  O1_5855 
+REMARK       I    between atoms: O2_5857  and  C2_5856 
+REMARK       I    between atoms: C6_5851  and  O6_5850 
+REMARK       I    between atoms: C6_5851  and  C5_5852 
+REMARK       I    between atoms: C4_5863  and  O1_5855 
+REMARK       I    between atoms: O3_5860  and  C3_5859 
+REMARK       I    between atoms: S2_5790  and  O2_5789 
+REMARK       I    between atoms: O3_5795  and  C3_5794 
+REMARK       I    between atoms: O3_5795  and  S3_5796 
+REMARK       I    between atoms: C5_5801  and  C6_5802 
+REMARK       I    between atoms: S6_5804  and  O6_5803 
+REMARK       I    between atoms: O6_5803  and  C6_5802 
+REMARK       I    between atoms: C1_5787  and  O1_5786 
+REMARK       I    between atoms: C2_5788  and  O2_5789 
+REMARK       I    between atoms: O3_5944  and  C3_5943 
+REMARK       I    between atoms: C6_5935  and  O6_5934 
+REMARK       I    between atoms: C6_5935  and  C5_5936 
+REMARK       I    between atoms: C2_5940  and  O2_5941 
+REMARK       I    between atoms: C4_5963  and  O1_5939 
+REMARK       I    between atoms: O1_5939  and  C1_5938 
+REMARK       I    between atoms: O3_5970  and  C3_5969 
+REMARK       I    between atoms: C2_5966  and  O2_5967 
+REMARK       I    between atoms: O1_5964  and  C1_5965 
+REMARK       I    between atoms: O1_5947  and  C4_5977 
+REMARK       I    between atoms: C6_5974  and  C5_5973 
+REMARK       I    between atoms: C3_5887  and  O3_5888 
+REMARK       I    between atoms: C2_5884  and  O2_5885 
+REMARK       I    between atoms: C6_5879  and  O6_5878 
+REMARK       I    between atoms: C6_5879  and  C5_5880 
+REMARK       I    between atoms: O1_5883  and  C1_5882 
+REMARK       I    between atoms: C4_5890  and  O1_5876 
+REMARK       I    between atoms: S6_6016  and  O6_6019 
+REMARK       I    between atoms: C1_6023  and  O1_6024 
+REMARK       I    between atoms: O6_6019  and  C6_6020 
+REMARK       I    between atoms: O3_6033  and  C3_6032 
+REMARK       I    between atoms: C6_6020  and  C5_6021 
+REMARK       I    between atoms: S2_6028  and  O2_6027 
+REMARK       I    between atoms: O2_6027  and  C2_6026 
+REMARK       I    between atoms: O6_5958  and  C6_5957 
+REMARK       I    between atoms: O6_5958  and  S6_5959 
+REMARK       I    between atoms: C6_5957  and  C5_5956 
+REMARK       I    between atoms: C3_5952  and  O3_5953 
+REMARK       I    between atoms: O1_5947  and  C1_5948 
+REMARK       I    between atoms: C2_5949  and  O2_5950 
+REMARK       I    between atoms: C5_5864  and  C6_5866 
+REMARK       I    between atoms: C2_5872  and  O2_5873 
+REMARK       I    between atoms: O6_5867  and  C6_5866 
+REMARK       I    between atoms: C3_5869  and  O3_5870 
+REMARK       I    between atoms: C1_5875  and  O1_5876 
+ROOT
+HETATM    1  C8  GU9 I 442      51.920  -2.223   6.699  1.00 76.59     0.174 C 
+HETATM    2  C5  GU9 I 442      53.650  -4.177   3.228  1.00 74.43     0.177 C 
+HETATM    3  O1  GU9 I 442      52.738  -2.036   1.636  1.00 71.69    -0.326 OA
+HETATM    4  C1  GU9 I 442      51.835  -2.873   2.379  1.00 73.45     0.266 C 
+HETATM    5  O6  GU9 I 442      53.341  -6.412   4.115  1.00 75.77    -0.349 OA
+HETATM    6  O3  GU9 I 442      52.765  -1.524   5.777  1.00 74.74    -0.349 OA
+HETATM    7  C2  GU9 I 442      51.588  -2.279   3.759  1.00 74.35     0.201 C 
+HETATM    8  O5  GU9 I 442      52.384  -4.191   2.547  1.00 73.22    -0.326 OA
+HETATM    9  C3  GU9 I 442      52.910  -2.190   4.510  1.00 74.53     0.177 C 
+HETATM   10  O2  GU9 I 442      50.911  -1.010   3.698  1.00 75.04    -0.346 OA
+HETATM   11  C9  GU9 I 442      53.892  -7.728   4.207  1.00 75.78     0.174 C 
+HETATM   12  C6  GU9 I 442      54.203  -5.591   3.314  1.00 75.15     0.174 C 
+HETATM   13  C4  GU9 I 442      53.542  -3.571   4.621  1.00 74.54     0.177 C 
+HETATM   14  C7  GU9 I 442      51.676   0.037   3.090  1.00 76.46     0.175 C 
+HETATM   15  C2  GU0 I 435      52.089  -4.840  33.726  1.00 44.78     0.224 C 
+HETATM   16  S2  GU0 I 435      53.386  -3.207  32.543  1.00 42.50     0.252 S 
+HETATM   17  O24 GU0 I 435      53.313  -3.687  31.124  1.00 43.22    -0.572 OA
+HETATM   18  O6  GU0 I 435      48.203  -7.077  34.660  1.00 35.49    -0.235 OA
+HETATM   19  C6  GU0 I 435      49.306  -7.676  35.346  1.00 37.01     0.198 C 
+HETATM   20  S6  GU0 I 435      47.056  -7.836  34.264  1.00 31.60     0.252 S 
+HETATM   21  O3  GU0 I 435      51.725  -3.383  35.630  1.00 47.98    -0.235 OA
+HETATM   22  O1  GU0 I 435      52.073  -6.294  31.800  1.00 44.94    -0.326 OA
+HETATM   23  O2  GU0 I 435      53.393  -4.327  33.434  1.00 47.55    -0.233 OA
+HETATM   24  O29 GU0 I 435      45.935  -6.899  33.927  1.00 28.23    -0.572 OA
+HETATM   25  O28 GU0 I 435      47.398  -8.659  33.058  1.00 30.73    -0.572 OA
+HETATM   26  S3  GU0 I 435      52.770  -2.888  36.479  1.00 48.36     0.252 S 
+HETATM   27  O22 GU0 I 435      54.661  -2.444  32.745  1.00 45.87    -0.572 OA
+HETATM   28  O26 GU0 I 435      53.999  -2.620  35.662  1.00 51.02    -0.572 OA
+HETATM   29  C4  GU0 I 435      50.552  -5.491  35.602  1.00 44.24     0.179 C 
+HETATM   30  C3  GU0 I 435      51.846  -4.757  35.238  1.00 44.41     0.201 C 
+HETATM   31  O27 GU0 I 435      53.101  -3.870  37.564  1.00 47.59    -0.572 OA
+HETATM   32  O23 GU0 I 435      52.222  -2.304  32.827  1.00 45.47    -0.572 OA
+HETATM   33  C1  GU0 I 435      52.020  -6.290  33.235  1.00 43.67     0.268 C 
+HETATM   34  C5  GU0 I 435      50.605  -6.917  35.064  1.00 42.32     0.179 C 
+HETATM   35  O25 GU0 I 435      52.326  -1.605  37.115  1.00 47.30    -0.572 OA
+HETATM   36  O30 GU0 I 435      46.620  -8.736  35.381  1.00 36.27    -0.572 OA
+HETATM   37  O5  GU0 I 435      50.792  -6.916  33.639  1.00 43.10    -0.326 OA
+HETATM   38  O19 GU6 I 446      59.518  -6.565 -10.411  1.00 70.26    -0.572 OA
+HETATM   39  S6  GU6 I 446      60.034  -5.467 -11.292  1.00 70.92     0.252 S 
+HETATM   40  O3  GU6 I 446      54.375  -3.491 -13.504  1.00 60.36    -0.235 OA
+HETATM   41  O21 GU6 I 446      61.355  -5.875 -11.873  1.00 71.52    -0.572 OA
+HETATM   42  O2  GU6 I 446      54.352  -4.918 -15.972  1.00 67.68    -0.233 OA
+HETATM   43  O5  GU6 I 446      57.886  -5.182 -14.961  1.00 64.60    -0.326 OA
+HETATM   44  C2  GU6 I 446      55.480  -4.968 -15.089  1.00 65.12     0.224 C 
+HETATM   45  C3  GU6 I 446      55.566  -3.672 -14.277  1.00 63.30     0.201 C 
+HETATM   46  O6  GU6 I 446      59.091  -5.228 -12.343  1.00 70.79    -0.235 OA
+HETATM   47  O14 GU6 I 446      54.857  -6.204 -17.919  1.00 69.71    -0.572 OA
+HETATM   48  C4  GU6 I 446      56.784  -3.705 -13.348  1.00 62.95     0.179 C 
+HETATM   49  O1  GU6 I 446      56.880  -3.993 -16.750  1.00 65.96    -0.326 OA
+HETATM   50  C5  GU6 I 446      58.033  -3.986 -14.175  1.00 65.42     0.179 C 
+HETATM   51  O17 GU6 I 446      53.236  -2.446 -15.350  1.00 54.72    -0.572 OA
+HETATM   52  S3  GU6 I 446      53.627  -2.338 -13.906  1.00 54.80     0.252 S 
+HETATM   53  O16 GU6 I 446      54.441  -1.092 -13.714  1.00 53.11    -0.572 OA
+HETATM   54  O18 GU6 I 446      52.388  -2.261 -13.065  1.00 55.54    -0.572 OA
+HETATM   55  C1  GU6 I 446      56.780  -5.132 -15.881  1.00 64.79     0.268 C 
+HETATM   56  S2  GU6 I 446      54.079  -6.156 -16.637  1.00 70.27     0.252 S 
+HETATM   57  O15 GU6 I 446      52.615  -6.256 -16.950  1.00 67.35    -0.572 OA
+HETATM   58  O13 GU6 I 446      54.468  -7.319 -15.771  1.00 68.81    -0.572 OA
+HETATM   59  O20 GU6 I 446      60.215  -4.221 -10.476  1.00 70.64    -0.572 OA
+HETATM   60  C6  GU6 I 446      59.245  -4.131 -13.250  1.00 67.22     0.198 C 
+HETATM   61  C6  GU5 I 436      54.951  -6.827  31.639  1.00 46.95     0.198 C 
+HETATM   62  O1  GU5 I 436      53.132  -7.697  27.932  1.00 49.76    -0.326 OA
+HETATM   63  C4  GU5 I 436      52.612  -7.506  31.249  1.00 45.42     0.177 C 
+HETATM   64  O31 GU5 I 436      57.381  -7.391  33.162  1.00 53.50    -0.572 OA
+HETATM   65  O32 GU5 I 436      56.220  -9.305  34.145  1.00 48.23    -0.572 OA
+HETATM   66  C5  GU5 I 436      53.925  -7.165  30.556  1.00 46.62     0.179 C 
+HETATM   67  O5  GU5 I 436      54.451  -8.270  29.798  1.00 48.61    -0.326 OA
+HETATM   68  C3  GU5 I 436      51.643  -8.137  30.255  1.00 45.57     0.177 C 
+HETATM   69  O6  GU5 I 436      55.171  -7.977  32.460  1.00 50.01    -0.235 OA
+HETATM   70  O33 GU5 I 436      55.456  -7.028  34.641  1.00 48.11    -0.572 OA
+HETATM   71  O3  GU5 I 436      50.403  -8.534  30.867  1.00 43.74    -0.349 OA
+HETATM   72  C1  GU5 I 436      53.529  -8.761  28.811  1.00 47.30     0.266 C 
+HETATM   73  C7  GU5 I 436      50.801  -9.360  27.658  1.00 48.22     0.175 C 
+HETATM   74  C8  GU5 I 436      50.536  -9.591  31.824  1.00 43.02     0.174 C 
+HETATM   75  O2  GU5 I 436      51.413 -10.089  28.726  1.00 45.42    -0.346 OA
+HETATM   76  C2  GU5 I 436      52.307  -9.306  29.537  1.00 46.58     0.201 C 
+HETATM   77  S6  GU5 I 436      56.045  -7.922  33.590  1.00 51.16     0.252 S 
+HETATM   78  C7  GU2 I 447      59.371  -4.939 -22.092  1.00 65.51     0.175 C 
+HETATM   79  C1  GU2 I 447      57.764  -3.044 -20.308  1.00 66.07     0.267 C 
+HETATM   80  C2  GU2 I 447      58.549  -4.306 -19.971  1.00 66.24     0.201 C 
+HETATM   81  C4  GU2 I 447      58.092  -3.945 -17.518  1.00 66.99     0.185 C 
+HETATM   82  C8  GU2 I 447      60.040  -6.055 -18.131  1.00 65.25     0.174 C 
+HETATM   83  C5  GU2 I 447      58.287  -2.528 -18.037  1.00 68.04     0.234 C 
+HETATM   84  O1  GU2 I 447      58.535  -2.222 -21.198  1.00 65.44    -0.326 OA
+HETATM   85  C3  GU2 I 447      57.992  -4.915 -18.691  1.00 66.34     0.178 C 
+HETATM   86  O2  GU2 I 447      58.471  -5.273 -21.031  1.00 65.57    -0.346 OA
+HETATM   87  O5  GU2 I 447      57.378  -2.313 -19.129  1.00 66.85    -0.318 OA
+HETATM   88  O48 GU2 I 447      58.924  -1.108 -16.217  1.00 70.50    -0.646 OA
+HETATM   89  C6  GU2 I 447      58.010  -1.508 -16.929  1.00 69.17     0.216 C 
+HETATM   90  O49 GU2 I 447      56.864  -1.088 -16.754  1.00 70.24    -0.646 OA
+HETATM   91  O3  GU2 I 447      58.635  -6.167 -18.391  1.00 65.59    -0.349 OA
+HETATM   92  O2  GU8 I 441      56.723  -5.571   5.740  1.00 76.67    -0.346 OA
+HETATM   93  C1  GU8 I 441      54.928  -4.118   6.480  1.00 75.10     0.266 C 
+HETATM   94  C2  GU8 I 441      56.357  -4.585   6.717  1.00 75.86     0.201 C 
+HETATM   95  C7  GU8 I 441      57.211  -4.945   4.550  1.00 77.26     0.175 C 
+HETATM   96  C9  GU8 I 441      54.124  -0.432  10.302  1.00 74.51     0.174 C 
+HETATM   97  C3  GU8 I 441      56.422  -5.229   8.096  1.00 76.06     0.177 C 
+HETATM   98  O1  GU8 I 441      54.855  -3.476   5.197  1.00 75.00    -0.326 OA
+HETATM   99  O5  GU8 I 441      54.555  -3.185   7.507  1.00 75.10    -0.326 OA
+HETATM  100  O3  GU8 I 441      57.718  -5.804   8.344  1.00 76.41    -0.349 OA
+HETATM  101  C4  GU8 I 441      55.972  -4.252   9.176  1.00 75.12     0.177 C 
+HETATM  102  O6  GU8 I 441      54.787  -1.492   9.607  1.00 75.53    -0.349 OA
+HETATM  103  C6  GU8 I 441      54.063  -2.717   9.792  1.00 74.28     0.174 C 
+HETATM  104  C8  GU8 I 441      58.799  -4.869   8.253  1.00 76.75     0.174 C 
+HETATM  105  C5  GU8 I 441      54.571  -3.770   8.820  1.00 74.76     0.177 C 
+HETATM  106  S2  GU4 I 433      46.433  -4.952  43.685  1.00 57.11     0.252 S 
+HETATM  107  O23 GU4 I 433      40.273  -1.154  38.687  1.00 59.90    -0.572 OA
+HETATM  108  C2  GU4 I 433      44.959  -4.731  41.834  1.00 51.84     0.225 C 
+HETATM  109  S3  GU4 I 433      43.315  -7.783  42.098  1.00 43.96     0.252 S 
+HETATM  110  S4  GU4 I 433      40.616  -5.540  40.071  1.00 55.30     0.252 S 
+HETATM  111  O10 GU4 I 433      47.268  -5.954  44.426  1.00 56.70    -0.572 OA
+HETATM  112  O24 GU4 I 433      40.125  -4.134  39.889  1.00 56.25    -0.572 OA
+HETATM  113  O5  GU4 I 433      44.611  -3.062  40.121  1.00 51.29    -0.326 OA
+HETATM  114  O1  GU4 I 433      46.284  -4.714  39.804  1.00 50.94    -0.300 OA
+HETATM  115  C6  GU4 I 433      42.551  -2.780  38.978  1.00 54.83     0.198 C 
+HETATM  116  O28 GU4 I 433      42.536  -8.447  43.193  1.00 45.35    -0.572 OA
+HETATM  117  O27 GU4 I 433      42.749  -8.205  40.775  1.00 44.57    -0.572 OA
+HETATM  118  C3  GU4 I 433      43.872  -5.619  41.220  1.00 50.81     0.202 C 
+HETATM  119  O2  GU4 I 433      45.933  -5.552  42.486  1.00 55.42    -0.233 OA
+HETATM  120  O6  GU4 I 433      42.094  -1.943  40.045  1.00 60.30    -0.235 OA
+HETATM  121  C5  GU4 I 433      43.557  -3.812  39.494  1.00 53.04     0.180 C 
+HETATM  122  O11 GU4 I 433      45.296  -4.511  44.560  1.00 56.42    -0.572 OA
+HETATM  123  O26 GU4 I 433      39.825  -6.454  39.183  1.00 54.77    -0.572 OA
+HETATM  124  O3  GU4 I 433      43.217  -6.361  42.255  1.00 48.12    -0.235 OA
+HETATM  125  C1  GU4 I 433      45.619  -3.868  40.754  1.00 51.51     0.273 C 
+HETATM  126  O29 GU4 I 433      44.749  -8.216  42.180  1.00 43.25    -0.572 OA
+HETATM  127  O4  GU4 I 433      42.001  -5.636  39.716  1.00 55.06    -0.235 OA
+HETATM  128  C4  GU4 I 433      42.849  -4.762  40.469  1.00 51.99     0.198 C 
+HETATM  129  O22 GU4 I 433      40.416  -0.580  41.062  1.00 58.76    -0.572 OA
+HETATM  130  O21 GU4 I 433      42.016   0.379  39.474  1.00 60.50    -0.572 OA
+HETATM  131  O12 GU4 I 433      47.288  -3.769  43.339  1.00 57.35    -0.572 OA
+HETATM  132  S6  GU4 I 433      41.211  -0.840  39.816  1.00 61.61     0.252 S 
+HETATM  133  O25 GU4 I 433      40.425  -5.947  41.502  1.00 55.77    -0.572 OA
+HETATM  134  C1  GU9 I 440      57.236  -4.901  11.105  1.00 75.17     0.266 C 
+HETATM  135  O1  GU9 I 440      55.950  -4.893  10.463  1.00 75.30    -0.326 OA
+HETATM  136  O6  GU9 I 440      58.364  -1.625  13.423  1.00 77.88    -0.349 OA
+HETATM  137  C4  GU9 I 440      56.485  -3.846  13.688  1.00 76.23     0.177 C 
+HETATM  138  C5  GU9 I 440      56.641  -3.003  12.429  1.00 76.59     0.177 C 
+HETATM  139  C2  GU9 I 440      57.241  -5.812  12.326  1.00 75.25     0.201 C 
+HETATM  140  O2  GU9 I 440      56.912  -7.164  11.966  1.00 74.27    -0.346 OA
+HETATM  141  C3  GU9 I 440      56.200  -5.294  13.309  1.00 75.77     0.177 C 
+HETATM  142  C8  GU9 I 440      57.297  -6.261  15.221  1.00 76.10     0.174 C 
+HETATM  143  C7  GU9 I 440      58.090  -7.876  11.574  1.00 73.24     0.175 C 
+HETATM  144  O5  GU9 I 440      57.600  -3.574  11.522  1.00 75.75    -0.326 OA
+HETATM  145  C9  GU9 I 440      58.747  -0.299  13.799  1.00 77.58     0.174 C 
+HETATM  146  O3  GU9 I 440      56.094  -6.166  14.449  1.00 76.39    -0.349 OA
+HETATM  147  C6  GU9 I 440      57.073  -1.592  12.796  1.00 77.43     0.174 C 
+HETATM  148  C1  GU8 I 437      54.616  -6.045  24.511  1.00 59.00     0.266 C 
+HETATM  149  O2  GU8 I 437      54.557  -8.197  23.365  1.00 59.11    -0.346 OA
+HETATM  150  C2  GU8 I 437      54.879  -7.539  24.603  1.00 57.83     0.201 C 
+HETATM  151  C4  GU8 I 437      54.188  -7.314  27.039  1.00 52.20     0.177 C 
+HETATM  152  C6  GU8 I 437      54.492  -5.026  28.060  1.00 51.18     0.174 C 
+HETATM  153  O6  GU8 I 437      55.860  -5.291  28.405  1.00 50.49    -0.349 OA
+HETATM  154  O1  GU8 I 437      55.330  -5.455  23.423  1.00 62.09    -0.326 OA
+HETATM  155  O3  GU8 I 437      54.106  -9.468  25.883  1.00 55.93    -0.349 OA
+HETATM  156  C3  GU8 I 437      53.976  -8.045  25.718  1.00 55.64     0.177 C 
+HETATM  157  C5  GU8 I 437      54.112  -5.809  26.812  1.00 53.41     0.177 C 
+HETATM  158  C8  GU8 I 437      55.430  -9.880  26.245  1.00 58.31     0.174 C 
+HETATM  159  O5  GU8 I 437      54.993  -5.418  25.746  1.00 57.04    -0.326 OA
+HETATM  160  C7  GU8 I 437      55.636  -8.098  22.430  1.00 57.42     0.175 C 
+HETATM  161  C9  GU8 I 437      56.369  -4.239  29.230  1.00 49.10     0.174 C 
+HETATM  162  O15 GU6 I 434      49.695  -5.968  41.797  1.00 58.91    -0.572 OA
+HETATM  163  S2  GU6 I 434      50.039  -6.372  40.394  1.00 60.28     0.256 S 
+HETATM  164  O14 GU6 I 434      48.808  -6.872  39.699  1.00 61.90    -0.572 OA
+HETATM  165  O3  GU6 I 434      48.714  -3.138  40.836  1.00 64.86    -0.208 OA
+HETATM  166  C5  GU6 I 434      47.289  -3.929  37.780  1.00 51.34     0.131 C 
+HETATM  167  C3  GU6 I 434      48.565  -3.939  39.749  1.00 56.33     0.164 C 
+HETATM  168  O20 GU6 I 434      44.502  -3.708  34.128  1.00 43.66    -0.572 OA
+HETATM  169  S6  GU6 I 434      44.336  -3.237  35.542  1.00 41.87     0.253 S 
+HETATM  170  O6  GU6 I 434      45.317  -3.878  36.358  1.00 45.16    -0.231 OA
+HETATM  171  C1  GU6 I 434      49.624  -4.402  37.541  1.00 50.38     0.291 C 
+HETATM  172  C2  GU6 I 434      49.634  -4.507  39.066  1.00 54.62     0.175 C 
+HETATM  173  O13 GU6 I 434      51.044  -7.484  40.429  1.00 61.21    -0.572 OA
+HETATM  174  O16 GU6 I 434      48.392  -0.892  41.609  1.00 64.34    -0.572 OA
+HETATM  175  O5  GU6 I 434      48.290  -4.430  37.000  1.00 50.41    -0.300 OA
+HETATM  176  O19 GU6 I 434      42.966  -3.590  36.044  1.00 44.64    -0.572 OA
+HETATM  177  S3  GU6 I 434      49.014  -1.762  40.558  1.00 67.23     0.257 S 
+HETATM  178  O21 GU6 I 434      44.515  -1.749  35.603  1.00 43.64    -0.572 OA
+HETATM  179  C4  GU6 I 434      47.335  -4.155  39.146  1.00 52.58     0.143 C 
+HETATM  180  O17 GU6 I 434      48.471  -1.347  39.223  1.00 67.04    -0.572 OA
+HETATM  181  O1  GU6 I 434      50.367  -5.517  37.026  1.00 46.49    -0.323 OA
+HETATM  182  O18 GU6 I 434      50.499  -1.554  40.579  1.00 64.93    -0.572 OA
+HETATM  183  O2  GU6 I 434      50.586  -5.247  39.693  1.00 60.19    -0.209 OA
+HETATM  184  C6  GU6 I 434      46.225  -3.071  37.105  1.00 48.92     0.218 C 
+HETATM  185  O3  GU8 I 443      50.489  -2.288  -0.180  1.00 69.87    -0.349 OA
+HETATM  186  C6  GU8 I 443      55.398  -2.486   0.526  1.00 71.18     0.174 C 
+HETATM  187  C3  GU8 I 443      51.795  -1.856  -0.606  1.00 69.95     0.177 C 
+HETATM  188  C4  GU8 I 443      52.906  -2.431   0.264  1.00 71.11     0.177 C 
+HETATM  189  C5  GU8 I 443      54.232  -1.856  -0.220  1.00 71.00     0.177 C 
+HETATM  190  C2  GU8 I 443      52.074  -2.139  -2.077  1.00 67.78     0.201 C 
+HETATM  191  O5  GU8 I 443      54.432  -2.064  -1.629  1.00 69.43    -0.326 OA
+HETATM  192  C7  GU8 I 443      50.857  -2.337  -4.082  1.00 70.71     0.175 C 
+HETATM  193  C8  GU8 I 443      49.964  -3.422  -0.881  1.00 69.89     0.174 C 
+HETATM  194  C9  GU8 I 443      56.714  -4.421   0.609  1.00 72.65     0.174 C 
+HETATM  195  O1  GU8 I 443      53.694  -1.652  -3.816  1.00 63.79    -0.326 OA
+HETATM  196  O2  GU8 I 443      51.015  -1.587  -2.873  1.00 69.32    -0.346 OA
+HETATM  197  O6  GU8 I 443      55.431  -3.896   0.259  1.00 71.95    -0.349 OA
+HETATM  198  C1  GU8 I 443      53.395  -1.470  -2.428  1.00 66.47     0.266 C 
+HETATM  199  O3  GU1 I 445      58.689  -0.202  -8.791  1.00 58.57    -0.349 OA
+HETATM  200  O38 GU1 I 445      54.327  -3.451  -7.547  1.00 62.48    -0.646 OA
+HETATM  201  C2  GU1 I 445      57.822  -1.293 -10.814  1.00 59.16     0.201 C 
+HETATM  202  O2  GU1 I 445      59.121  -1.280 -11.426  1.00 58.79    -0.346 OA
+HETATM  203  O1  GU1 I 445      56.916  -2.433 -12.695  1.00 61.12    -0.326 OA
+HETATM  204  C7  GU1 I 445      59.434   0.025 -11.921  1.00 58.04     0.175 C 
+HETATM  205  O37 GU1 I 445      53.532  -2.364  -9.196  1.00 63.55    -0.646 OA
+HETATM  206  C1  GU1 I 445      57.097  -2.547 -11.275  1.00 59.60     0.267 C 
+HETATM  207  C4  GU1 I 445      56.546  -1.424  -8.669  1.00 58.66     0.185 C 
+HETATM  208  O5  GU1 I 445      55.820  -2.677 -10.627  1.00 60.15    -0.318 OA
+HETATM  209  C3  GU1 I 445      57.931  -1.318  -9.295  1.00 59.16     0.178 C 
+HETATM  210  C8  GU1 I 445      58.199   1.081  -9.198  1.00 59.46     0.174 C 
+HETATM  211  C6  GU1 I 445      54.496  -2.847  -8.609  1.00 62.85     0.216 C 
+HETATM  212  C5  GU1 I 445      55.904  -2.702  -9.191  1.00 60.73     0.234 C 
+HETATM  213  C3  GU8 I 439      55.330  -1.924  17.940  1.00 78.00     0.177 C 
+HETATM  214  C2  GU8 I 439      54.930  -2.061  16.476  1.00 78.03     0.201 C 
+HETATM  215  C6  GU8 I 439      55.924  -5.661  18.567  1.00 76.63     0.174 C 
+HETATM  216  O2  GU8 I 439      55.181  -0.810  15.818  1.00 79.14    -0.346 OA
+HETATM  217  O1  GU8 I 439      55.412  -3.307  14.476  1.00 76.06    -0.326 OA
+HETATM  218  O5  GU8 I 439      55.618  -4.386  16.554  1.00 77.47    -0.326 OA
+HETATM  219  C4  GU8 I 439      55.165  -3.258  18.656  1.00 77.42     0.177 C 
+HETATM  220  C5  GU8 I 439      56.023  -4.284  17.929  1.00 76.74     0.177 C 
+HETATM  221  C7  GU8 I 439      54.350  -0.669  14.661  1.00 79.91     0.175 C 
+HETATM  222  C8  GU8 I 439      53.463  -0.371  18.007  1.00 77.02     0.174 C 
+HETATM  223  C9  GU8 I 439      54.622  -7.579  18.302  1.00 77.35     0.174 C 
+HETATM  224  C1  GU8 I 439      55.795  -3.146  15.850  1.00 76.80     0.266 C 
+HETATM  225  O3  GU8 I 439      54.646  -0.870  18.642  1.00 77.78    -0.349 OA
+HETATM  226  O6  GU8 I 439      54.583  -6.158  18.456  1.00 76.75    -0.349 OA
+HETATM  227  O54 GU3 I 448      57.156   3.467 -20.311  1.00 60.43    -0.572 OA
+HETATM  228  S6  GU3 I 448      54.279  -3.511 -22.865  1.00 75.14     0.252 S 
+HETATM  229  C1  GU3 I 448      57.355   0.970 -23.637  1.00 64.01     0.268 C 
+HETATM  230  O6  GU3 I 448      55.293  -2.511 -22.713  1.00 72.65    -0.235 OA
+HETATM  231  O3  GU3 I 448      58.742   0.484 -20.188  1.00 61.93    -0.349 OA
+HETATM  232  O55 GU3 I 448      56.329   3.624 -22.617  1.00 61.49    -0.572 OA
+HETATM  233  O5  GU3 I 448      56.655  -0.284 -23.709  1.00 63.67    -0.326 OA
+HETATM  234  O1  GU3 I 448      58.568   0.945 -24.404  1.00 64.76    -0.326 OA
+HETATM  235  C6  GU3 I 448      56.571  -2.654 -23.338  1.00 67.11     0.198 C 
+HETATM  236  O52 GU3 I 448      54.854  -4.866 -22.578  1.00 74.65    -0.572 OA
+HETATM  237  C7  GU3 I 448      59.912  -0.180 -19.701  1.00 62.20     0.174 C 
+HETATM  238  O50 GU3 I 448      53.751  -3.478 -24.268  1.00 75.13    -0.572 OA
+HETATM  239  O53 GU3 I 448      58.280   4.918 -21.924  1.00 58.92    -0.572 OA
+HETATM  240  S2  GU3 I 448      57.553   3.617 -21.750  1.00 60.46     0.252 S 
+HETATM  241  C5  GU3 I 448      57.409  -1.384 -23.172  1.00 64.77     0.179 C 
+HETATM  242  C8  GU3 I 448      58.264   0.896 -25.801  1.00 65.99     0.177 C 
+HETATM  243  O2  GU3 I 448      58.405   2.529 -22.123  1.00 61.96    -0.233 OA
+HETATM  244  C4  GU3 I 448      57.744  -1.137 -21.707  1.00 64.46     0.177 C 
+HETATM  245  C3  GU3 I 448      58.516   0.170 -21.570  1.00 62.99     0.179 C 
+HETATM  246  C2  GU3 I 448      57.678   1.298 -22.178  1.00 62.76     0.223 C 
+HETATM  247  O51 GU3 I 448      53.157  -3.231 -21.909  1.00 73.85    -0.572 OA
+HETATM  248  O5  GU5 I 444      54.896   0.151  -6.760  1.00 56.52    -0.326 OA
+HETATM  249  O6  GU5 I 444      52.401   1.020  -5.799  1.00 53.15    -0.235 OA
+HETATM  250  C7  GU5 I 444      58.953   0.821  -5.520  1.00 51.16     0.175 C 
+HETATM  251  C6  GU5 I 444      52.612  -0.348  -6.159  1.00 54.95     0.198 C 
+HETATM  252  C3  GU5 I 444      55.961  -0.954  -4.352  1.00 55.88     0.177 C 
+HETATM  253  C8  GU5 I 444      57.493  -1.471  -2.620  1.00 54.90     0.174 C 
+HETATM  254  O1  GU5 I 444      56.594  -1.436  -7.232  1.00 57.66    -0.326 OA
+HETATM  255  C2  GU5 I 444      56.765  -0.018  -5.246  1.00 55.45     0.201 C 
+HETATM  256  C4  GU5 I 444      54.464  -0.663  -4.495  1.00 57.96     0.177 C 
+HETATM  257  O33 GU5 I 444      51.256   3.105  -5.623  1.00 49.10    -0.572 OA
+HETATM  258  S6  GU5 I 444      51.157   1.675  -6.065  1.00 47.58     0.252 S 
+HETATM  259  C5  GU5 I 444      54.081  -0.738  -5.976  1.00 56.19     0.179 C 
+HETATM  260  C1  GU5 I 444      56.305  -0.135  -6.693  1.00 55.90     0.266 C 
+HETATM  261  O31 GU5 I 444      50.054   0.991  -5.316  1.00 48.30    -0.572 OA
+HETATM  262  O3  GU5 I 444      56.310  -0.747  -2.973  1.00 55.51    -0.349 OA
+HETATM  263  O32 GU5 I 444      50.863   1.628  -7.534  1.00 48.71    -0.572 OA
+HETATM  264  O2  GU5 I 444      58.166  -0.309  -5.129  1.00 52.26    -0.346 OA
+HETATM  265  C4  GU9 I 438      54.768  -4.221  23.094  1.00 70.87     0.177 C 
+HETATM  266  C9  GU9 I 438      50.431  -5.701  21.813  1.00 76.15     0.174 C 
+HETATM  267  C7  GU9 I 438      57.713  -1.764  21.054  1.00 76.54     0.175 C 
+HETATM  268  C5  GU9 I 438      53.894  -4.412  21.850  1.00 73.76     0.177 C 
+HETATM  269  C2  GU9 I 438      55.573  -2.058  22.128  1.00 75.63     0.201 C 
+HETATM  270  O6  GU9 I 438      51.654  -5.194  21.273  1.00 76.87    -0.349 OA
+HETATM  271  C3  GU9 I 438      56.000  -3.368  22.776  1.00 74.22     0.177 C 
+HETATM  272  C6  GU9 I 438      52.601  -5.045  22.339  1.00 74.23     0.174 C 
+HETATM  273  C8  GU9 I 438      56.090  -2.430  24.987  1.00 73.92     0.174 C 
+HETATM  274  O5  GU9 I 438      53.604  -3.145  21.233  1.00 75.10    -0.326 OA
+HETATM  275  C1  GU9 I 438      54.783  -2.403  20.873  1.00 75.80     0.266 C 
+HETATM  276  O1  GU9 I 438      55.640  -3.168  20.009  1.00 76.72    -0.326 OA
+HETATM  277  O2  GU9 I 438      56.683  -1.181  21.862  1.00 76.07    -0.346 OA
+HETATM  278  O3  GU9 I 438      56.789  -3.138  23.956  1.00 73.65    -0.349 OA
+ENDROOT
+TORSDOF 111
