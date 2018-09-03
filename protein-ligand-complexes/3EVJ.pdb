@@ -1,7 +1,6 @@
 HEADER    HYDROLASE INHIBITOR                     13-OCT-08   3EVJ              
 TITLE     INTERMEDIATE STRUCTURE OF ANTITHROMBIN BOUND TO THE NATURAL           
 TITLE    2 PENTASACCHARIDE                                                      
-CAVEAT     3EVJ    MAN I 843 HAS WRONG CHIRALITY AT ATOM C1 MAN L 863 HAS WRONG 
 CAVEAT   2 3EVJ    CHIRALITY AT ATOM C1                                         
 COMPND    MOL_ID: 1;                                                            
 COMPND   2 MOLECULE: ANTITHROMBIN-III;                                          
