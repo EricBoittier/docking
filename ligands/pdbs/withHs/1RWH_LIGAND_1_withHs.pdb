@@ -1,0 +1,257 @@
+HETATM    1  O3  ASG A 812       3.542  45.966  77.191  0.30 11.21           O
+ANISOU    1  O3  ASG A 812      973   1751   1535     29    157    -44       O
+HETATM    2  O7  ASG A 810      -0.581  39.398  72.827  1.00  9.92           O
+ANISOU    2  O7  ASG A 810     1212   1459   1095    232    155   -101       O
+HETATM    3  O4  ASG A 810       0.090  37.221  76.742  1.00 16.58           O
+ANISOU    3  O4  ASG A 810     2363   1725   2213    418    415    110       O
+HETATM    4  OSC ASG A 812       2.378  50.939  75.459  0.30 21.32           O
+ANISOU    4  OSC ASG A 812     2059   3017   3024   -324   -166    107       O
+HETATM    5  O3  GCT A 811       2.211  41.820  78.714  0.30 10.98           O
+ANISOU    5  O3  GCT A 811     1046   1272   1852   -338  -1108   -223       O
+HETATM    6  H3  GCT A 811       3.098  41.486  78.866  0.30  0.00           H
+HETATM    7  C4  GAD A 809      -6.224  36.923  75.163  1.00 13.77           C
+ANISOU    7  C4  GAD A 809     1810   1866   1554    151     69   -457       C
+HETATM    8  H4  GAD A 809      -7.300  36.830  75.150  1.00  0.00           H
+HETATM    9  O7  ASG A 812       6.359  47.315  79.793  0.30 15.84           O
+ANISOU    9  O7  ASG A 812     1800   2191   2027    -66    222   -424       O
+HETATM   10  OSA ASG A 812       1.356  48.976  74.479  0.30 21.64           O
+ANISOU   10  OSA ASG A 812     2561   2724   2936     22     37     10       O
+HETATM   11  O6B GCT A 811      -1.342  44.703  76.212  0.30 17.92           O
+ANISOU   11  O6B GCT A 811     2228   2144   2434    -78    -88    -45       O
+HETATM   12  O5  ASG A 812       5.797  48.871  75.497  0.30 15.85           O
+ANISOU   12  O5  ASG A 812     2072   2104   1845   -164    105     92       O
+HETATM   13  C5  ASG A 812       4.875  48.215  74.576  0.30 15.35           C
+ANISOU   13  C5  ASG A 812     1792   2017   2023   -139    101     24       C
+HETATM   14  H5  ASG A 812       5.432  47.402  74.110  0.30  0.00           H
+HETATM   15  C5  ASG A 810      -0.251  39.085  78.344  1.00 13.49           C
+ANISOU   15  C5  ASG A 810     1321   2092   1709    -17    176     14       C
+HETATM   16  H5  ASG A 810      -1.005  39.621  78.921  1.00  0.00           H
+HETATM   17  C6  ASG A 812       4.390  49.105  73.447  0.30 16.77           C
+ANISOU   17  C6  ASG A 812     1986   2024   2361    -57     46     25       C
+HETATM   18  H62 ASG A 812       3.863  48.483  72.723  0.30  0.00           H
+HETATM   19  H63 ASG A 812       3.690  49.835  73.854  0.30  0.00           H
+HETATM   20  C4  GCT A 811       0.850  43.049  77.139  0.30 11.65           C
+ANISOU   20  C4  GCT A 811     1508   1738   1180     67    -97     46       C
+HETATM   21  H4  GCT A 811       0.076  43.239  77.882  0.30  0.00           H
+HETATM   22  C4  ASG A 810      -0.915  38.049  77.425  1.00 14.02           C
+ANISOU   22  C4  ASG A 810     1608   1697   2020     96    263    -69       C
+HETATM   23  H4  ASG A 810      -1.543  37.398  78.034  1.00  0.00           H
+HETATM   24  C5  GAD A 809      -5.662  37.275  76.311  1.00 13.67           C
+ANISOU   24  C5  GAD A 809     1529   2074   1592    -43    126   -170       C
+HETATM   25  O2  GAD A 809      -3.321  36.986  72.869  1.00 13.31           O
+ANISOU   25  O2  GAD A 809     1405   1759   1893    166    213   -104       O
+HETATM   26  H2  GAD A 809      -2.372  37.016  73.012  1.00  0.00           H
+HETATM   27  OSB ASG A 810      -1.406  35.156  76.951  1.00 28.58           O
+ANISOU   27  OSB ASG A 810     3190   3270   4398   -286    -18   -279       O
+HETATM   28  C2  ASG A 812       5.541  47.111  77.099  0.30 12.17           C
+ANISOU   28  C2  ASG A 812     1573   1606   1446    -99    120   -282       C
+HETATM   29  H2  ASG A 812       5.049  47.792  77.793  0.30  0.00           H
+HETATM   30  O6  ASG A 810       1.306  39.389  79.957  1.00 21.73           O
+ANISOU   30  O6  ASG A 810     2338   3102   2815   -124    366   -430       O
+HETATM   31  H6  ASG A 810       1.423  40.157  79.393  1.00  0.00           H
+HETATM   32  C3  GCT A 811       2.230  42.692  77.693  0.30 13.14           C
+ANISOU   32  C3  GCT A 811     1394   1938   1661    -42    284     16       C
+HETATM   33  H3  GCT A 811       2.838  42.280  76.888  0.30  0.00           H
+HETATM   34  C2  ASG A 810      -0.913  39.679  75.607  1.00 12.30           C
+ANISOU   34  C2  ASG A 810     1493   1778   1402    -35     96   -135       C
+HETATM   35  H2  ASG A 810      -0.085  39.142  75.145  1.00  0.00           H
+HETATM   36  C5  GCT A 811       0.919  44.044  75.983  0.30 13.12           C
+ANISOU   36  C5  GCT A 811     1830   1648   1506    -48     80    112       C
+HETATM   37  C6  GCT A 811      -0.200  45.100  75.922  0.30 16.16           C
+ANISOU   37  C6  GCT A 811     2156   2034   1948     50    127     -5       C
+HETATM   38  H5  GCT A 811       0.732  43.426  75.105  0.30  0.00           H
+HETATM   39  OSC ASG A 810       0.918  35.048  75.884  1.00 28.94           O
+ANISOU   39  OSC ASG A 810     4334   2827   3835    789    250   -154       O
+HETATM   40  O5  GCT A 811       2.266  44.480  75.800  0.30 13.25           O
+ANISOU   40  O5  GCT A 811     1651   1778   1605     27   -146    327       O
+HETATM   41  C3  ASG A 812       4.423  46.511  76.240  0.30 10.56           C
+ANISOU   41  C3  ASG A 812     1216   1620   1176    -48    114   -163       C
+HETATM   42  H3  ASG A 812       4.823  45.720  75.606  0.30  0.00           H
+HETATM   43  C3  GAD A 809      -5.481  36.636  73.850  1.00 12.24           C
+ANISOU   43  C3  GAD A 809     1293   1653   1703     62     32   -361       C
+HETATM   44  C1  GAD A 809      -3.653  37.731  75.155  1.00 12.51           C
+ANISOU   44  C1  GAD A 809     1194   2016   1543    -44    174    -73       C
+HETATM   45  H3  GAD A 809      -5.736  37.402  73.118  1.00  0.00           H
+HETATM   46  H1  GAD A 809      -3.938  38.726  74.814  1.00  0.00           H
+HETATM   47  O6  ASG A 812       5.422  49.797  72.769  0.30 18.37           O
+ANISOU   47  O6  ASG A 812     2324   2384   2269    102    321     10       O
+HETATM   48  H6  ASG A 812       5.042  50.337  72.072  0.30  0.00           H
+HETATM   49  S   ASG A 810       0.035  35.617  76.987  1.00 22.83           S
+ANISOU   49  S   ASG A 810     2776   2342   3556    349   -631   -125       S
+HETATM   50  C8  ASG A 810      -2.691  40.392  72.344  1.00 10.18           C
+ANISOU   50  C8  ASG A 810     1141   1583   1141    275    -18    101       C
+HETATM   51  H81 ASG A 810      -2.422  40.173  71.311  1.00  0.00           H
+HETATM   52  H82 ASG A 810      -2.893  41.458  72.448  1.00  0.00           H
+HETATM   53  H83 ASG A 810      -3.582  39.825  72.616  1.00  0.00           H
+HETATM   54  C7  ASG A 812       6.413  46.213  79.221  0.30 14.96           C
+ANISOU   54  C7  ASG A 812     1790   1945   1946      1    -34    -81       C
+HETATM   55  C1  ASG A 812       6.549  47.969  76.312  0.30 13.86           C
+ANISOU   55  C1  ASG A 812     1566   1861   1837    -87     51   -168       C
+HETATM   56  N   ASG A 812       6.157  46.078  77.924  0.30 13.95           N
+ANISOU   56  N   ASG A 812     1704   1857   1738    -60     62   -169       N
+HETATM   57  H1  ASG A 812       7.183  47.336  75.692  0.30  0.00           H
+HETATM   58  H   ASG A 812       6.405  45.205  77.481  0.30  0.00           H
+HETATM   59  C6  ASG A 810       0.718  38.403  79.256  1.00 17.97           C
+ANISOU   59  C6  ASG A 810     2140   2789   1899   -330   -263      0       C
+HETATM   60  O5  ASG A 810       0.486  40.004  77.496  1.00 12.62           O
+ANISOU   60  O5  ASG A 810     1201   2118   1475    -16    175    -75       O
+HETATM   61  H62 ASG A 810       1.460  37.851  78.679  1.00  0.00           H
+HETATM   62  H63 ASG A 810       0.189  37.729  79.929  1.00  0.00           H
+HETATM   63  C2  GAD A 809      -3.988  36.674  74.115  1.00 13.09           C
+ANISOU   63  C2  GAD A 809     1439   1881   1652   -105    352    -93       C
+HETATM   64  H2  GAD A 809      -3.657  35.698  74.470  1.00  0.00           H
+HETATM   65  C3  ASG A 810      -1.772  38.687  76.373  1.00 12.97           C
+ANISOU   65  C3  ASG A 810     1720   1790   1417   -194     52   -180       C
+HETATM   66  OSA ASG A 810       0.484  35.426  78.344  1.00 26.14           O
+ANISOU   66  OSA ASG A 810     3657   3385   2888    534   -349    373       O
+HETATM   67  H3  ASG A 810      -2.617  39.198  76.834  1.00  0.00           H
+HETATM   68  O6B GAD A 809      -5.686  37.452  78.622  1.00 16.81           O
+ANISOU   68  O6B GAD A 809     2001   2862   1523    108    130   -591       O
+HETATM   69  O1  ASG A 810       0.480  41.586  75.870  1.00 14.00           O
+ANISOU   69  O1  ASG A 810     1880   1830   1608   -231    293    163       O
+HETATM   70  C7  ASG A 810      -1.587  40.017  73.225  1.00  9.70           C
+ANISOU   70  C7  ASG A 810     1173   1353   1157     60    270     41       C
+HETATM   71  O6A GCT A 811       0.030  46.268  75.532  0.30 18.85           O
+ANISOU   71  O6A GCT A 811     2751   2097   2315    -15    104    -27       O
+HETATM   72  C6  GAD A 809      -6.368  37.548  77.562  1.00 15.52           C
+ANISOU   72  C6  GAD A 809     1645   2379   1871    -43    173   -205       C
+HETATM   73  O5  GAD A 809      -4.272  37.413  76.375  1.00 14.14           O
+ANISOU   73  O5  GAD A 809     1779   2006   1588   -147    142   -221       O
+HETATM   74  OSB ASG A 812       0.878  49.459  76.710  0.30 22.89           O
+ANISOU   74  OSB ASG A 812     2854   2920   2922    125     20      0       O
+HETATM   75  C8  ASG A 812       6.788  44.915  79.869  0.30 14.57           C
+ANISOU   75  C8  ASG A 812     1739   1872   1922   -270   -157   -110       C
+HETATM   76  H81 ASG A 812       7.787  44.997  80.296  0.30  0.00           H
+HETATM   77  H82 ASG A 812       6.776  44.120  79.123  0.30  0.00           H
+HETATM   78  H83 ASG A 812       6.073  44.683  80.658  0.30  0.00           H
+HETATM   79  O2  GCT A 811       4.068  43.573  78.724  0.30 12.38           O
+ANISOU   79  O2  GCT A 811     1694   1872   1136    159    143    -77       O
+HETATM   80  C1  GCT A 811       3.221  44.631  76.841  0.30 12.04           C
+ANISOU   80  C1  GCT A 811     1610   1741   1223     -3     14    152       C
+HETATM   81  H1  GCT A 811       4.143  44.157  76.503  0.30  0.00           H
+HETATM   82  H2  GCT A 811       4.552  44.331  79.059  0.30  0.00           H
+HETATM   83  O3  GAD A 809      -5.853  35.346  73.336  1.00 12.71           O
+ANISOU   83  O3  GAD A 809     1522   1729   1576    115    124   -409       O
+HETATM   84  O6A GAD A 809      -7.578  37.889  77.483  1.00 14.79           O
+ANISOU   84  O6A GAD A 809     1637   2310   1672    280     30   -576       O
+HETATM   85  H3  GAD A 809      -6.798  35.328  73.170  1.00  0.00           H
+HETATM   86  O3  ASG A 810      -2.243  37.663  75.456  1.00 15.58           O
+ANISOU   86  O3  ASG A 810     1513   2322   2083    -59    233   -425       O
+HETATM   87  N   ASG A 810      -1.755  40.225  74.562  1.00 11.20           N
+ANISOU   87  N   ASG A 810     1290   1713   1252     33    152    -31       N
+HETATM   88  H   ASG A 810      -2.530  40.807  74.847  1.00  0.00           H
+HETATM   89  O4  ASG A 812       3.067  48.471  76.262  0.30 16.93           O
+ANISOU   89  O4  ASG A 812     2291   2283   1857     70   -197   -314       O
+HETATM   90  S   ASG A 812       1.887  49.440  75.732  0.30 25.76           S
+ANISOU   90  S   ASG A 812     3280   3210   3295     99   -138    244       S
+HETATM   91  C2  GCT A 811       2.857  44.001  78.167  0.30 11.08           C
+ANISOU   91  C2  GCT A 811     1322   1309   1578    116    165    526       C
+HETATM   92  H2  GCT A 811       2.231  44.611  78.819  0.30  0.00           H
+HETATM   93  O1  ASG A 812       7.337  48.681  77.264  0.30 13.45           O
+ANISOU   93  O1  ASG A 812     1702   1934   1471   -113     -9   -279       O
+HETATM   94  H1  ASG A 812       7.978  49.228  76.804  0.30  0.00           H
+HETATM   95  C1  ASG A 810      -0.347  40.701  76.591  1.00 12.05           C
+ANISOU   95  C1  ASG A 810     1536   1631   1412    -74    -46     -5       C
+HETATM   96  H1  ASG A 810      -1.142  41.234  77.112  1.00  0.00           H
+HETATM   97  C4  ASG A 812       3.750  47.558  75.395  0.30 14.42           C
+ANISOU   97  C4  ASG A 812     1852   1811   1817    -71    108     56       C
+HETATM   98  H4  ASG A 812       3.035  47.084  74.723  0.30  0.00           H
+CONECT    1   41   80
+CONECT    3   22   49
+CONECT    2   70
+CONECT    4   90
+CONECT    6    5
+CONECT    5   32    6
+CONECT    7    8   24   43
+CONECT    8    7
+CONECT    9   54
+CONECT   10   90
+CONECT   11   37
+CONECT   13   14   12   17   97
+CONECT   14   13
+CONECT   12   13   55
+CONECT   15   16   22   59   60
+CONECT   16   15
+CONECT   17   18   19   13   47
+CONECT   18   17
+CONECT   19   17
+CONECT   20   21   32   36   69
+CONECT   21   20
+CONECT   22   23    3   15   65
+CONECT   23   22
+CONECT   24    7   72   73
+CONECT   26   25
+CONECT   25   63   26
+CONECT   27   49
+CONECT   28   29   55   56   41
+CONECT   29   28
+CONECT   31   30
+CONECT   30   59   31
+CONECT   32   33   20    5   91
+CONECT   33   32
+CONECT   34   35   65   87   95
+CONECT   35   34
+CONECT   36   38   20   37   40
+CONECT   37   11   36   71
+CONECT   38   36
+CONECT   39   49
+CONECT   40   36   80
+CONECT   41   42    1   28   97
+CONECT   42   41
+CONECT   44   46   63   73   86
+CONECT   43   45    7   63   83
+CONECT   46   44
+CONECT   45   43
+CONECT   48   47
+CONECT   47   48   17
+CONECT   50   70   51   53   52
+CONECT   51   50
+CONECT   52   50
+CONECT   53   50
+CONECT   49    3   27   39   66
+CONECT   55   57   12   28   93
+CONECT   54    9   56   75
+CONECT   58   56
+CONECT   57   55
+CONECT   56   58   28   54
+CONECT   59   61   62   15   30
+CONECT   61   59
+CONECT   62   59
+CONECT   60   15   95
+CONECT   63   64   25   43   44
+CONECT   64   63
+CONECT   65   67   22   34   86
+CONECT   67   65
+CONECT   66   49
+CONECT   68   72
+CONECT   70    2   50   87
+CONECT   69   20   95
+CONECT   71   37
+CONECT   72   24   68   84
+CONECT   73   24   44
+CONECT   75   76   54   77   78
+CONECT   76   75
+CONECT   77   75
+CONECT   78   75
+CONECT   74   90
+CONECT   80   81    1   40   91
+CONECT   81   80
+CONECT   82   79
+CONECT   79   91   82
+CONECT   85   83
+CONECT   83   43   85
+CONECT   84   72
+CONECT   88   87
+CONECT   87   88   34   70
+CONECT   86   44   65
+CONECT   89   90   97
+CONECT   90   10    4   74   89
+CONECT   91   92   32   79   80
+CONECT   92   91
+CONECT   94   93
+CONECT   93   55   94
+CONECT   95   96   34   60   69
+CONECT   96   95
+CONECT   97   98   13   41   89
+CONECT   98   97
+END

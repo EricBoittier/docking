@@ -1,0 +1,201 @@
+HETATM    1  C3  UAP A 901      -5.363  59.422 -16.305  1.00 89.42           C
+HETATM    2  H3  UAP A 901      -6.212  60.100 -16.225  1.00  0.00           H
+HETATM    3  O1S IDS A 903       6.213  51.676 -12.005  1.00 28.27           O
+HETATM    4  O6  SGN A 902      -3.269  55.682 -12.060  1.00 45.81           O
+HETATM    5  C1  SGN A 902      -0.649  54.144 -14.727  1.00 41.35           C
+HETATM    6  H1  SGN A 902      -0.301  53.163 -14.403  1.00  0.00           H
+HETATM    7  O1S UAP A 901      -7.066  61.245 -12.376  1.00 77.81           O
+HETATM    8  O2  IDS A 903       4.380  52.879 -13.486  1.00 23.75           O
+HETATM    9  C5  SGN A 902      -1.793  56.109 -13.896  1.00 48.81           C
+HETATM   10  H5  SGN A 902      -1.009  56.775 -14.256  1.00  0.00           H
+HETATM   11  O4S SGN A 904       6.715  51.736 -18.368  1.00 22.71           O
+HETATM   12  C6  UAP A 901      -6.338  56.070 -17.418  1.00 96.52           C
+HETATM   13  N   SGN A 902      -1.103  53.330 -16.972  1.00 44.74           N
+HETATM   14  H   SGN A 902      -0.846  53.888 -17.774  1.00  0.00           H
+HETATM   15  O5S SGN A 904       8.186  50.875 -16.663  1.00 23.24           O
+HETATM   16  O2  UAP A 901      -5.956  59.435 -13.967  1.00 80.15           O
+HETATM   17  C3  SGN A 904       6.399  57.401 -15.783  1.00 21.40           C
+HETATM   18  H3  SGN A 904       6.581  57.854 -14.808  1.00  0.00           H
+HETATM   19  S1  SGN A 902      -0.819  51.584 -16.976  1.00 44.22           S
+HETATM   20  O5  IDS A 903       3.386  55.397 -15.837  1.00 21.63           O
+HETATM   21  C6  IDS A 903       1.696  57.052 -15.923  1.00 25.20           C
+HETATM   22  C4  SGN A 902      -2.878  55.960 -14.964  1.00 53.34           C
+HETATM   23  H4  SGN A 902      -3.686  55.339 -14.579  1.00  0.00           H
+HETATM   24  O3  UAP A 901      -4.321  60.116 -16.957  1.00 90.02           O
+HETATM   25  H3  UAP A 901      -4.599  60.350 -17.846  1.00  0.00           H
+HETATM   26  O5S SGN A 902      -4.091  56.036  -9.572  1.00 46.46           O
+HETATM   27  O2S IDS A 903       5.597  53.922 -11.375  1.00 24.76           O
+HETATM   28  N   SGN A 904       7.620  59.195 -16.840  1.00 23.28           N
+HETATM   29  H   SGN A 904       7.196  59.801 -16.152  1.00  0.00           H
+HETATM   30  O61 UAP A 901      -6.564  56.325 -18.623  1.00 96.48           O
+HETATM   31  O5  SGN A 904       8.725  55.791 -16.081  1.00 19.28           O
+HETATM   32  O6S SGN A 904       5.919  51.459 -16.104  1.00 24.83           O
+HETATM   33  C3  IDS A 903       2.267  53.785 -14.090  1.00 26.01           C
+HETATM   34  H3  IDS A 903       2.199  53.133 -14.961  1.00  0.00           H
+HETATM   35  C2  SGN A 902      -1.706  53.954 -15.812  1.00 44.68           C
+HETATM   36  S2  SGN A 902      -4.564  56.167 -10.964  1.00 46.36           S
+HETATM   37  H2  SGN A 902      -2.505  53.317 -15.432  1.00  0.00           H
+HETATM   38  O3S IDS A 903       4.071  52.096 -10.983  1.00 27.22           O
+HETATM   39  O3S SGN A 904       8.275  58.968 -19.374  1.00 24.40           O
+HETATM   40  O3  IDS A 903       1.684  53.157 -12.969  1.00 25.20           O
+HETATM   41  H3  IDS A 903       1.735  53.744 -12.211  1.00  0.00           H
+HETATM   42  O4  SGN A 904       5.382  55.575 -14.645  1.00 19.46           O
+HETATM   43  O5  UAP A 901      -5.700  56.790 -15.314  1.00 87.66           O
+HETATM   44  O2S UAP A 901      -5.787  62.068 -14.243  1.00 78.63           O
+HETATM   45  S   UAP A 901      -5.865  61.026 -13.203  1.00 78.05           S
+HETATM   46  S2  SGN A 904       7.083  51.809 -16.941  1.00 21.88           S
+HETATM   47  C5  UAP A 901      -5.934  57.050 -16.609  1.00 99.93           C
+HETATM   48  O1  SGN A 904       9.144  57.816 -14.951  1.00 21.52           O
+HETATM   49  H1  SGN A 904       9.976  57.471 -14.620  1.00  0.00           H
+HETATM   50  O3S SGN A 902      -0.179  51.185 -15.709  1.00 45.00           O
+HETATM   51  C2  UAP A 901      -4.941  59.039 -14.886  1.00 83.49           C
+HETATM   52  H2  UAP A 901      -4.032  59.589 -14.643  1.00  0.00           H
+HETATM   53  O61 IDS A 903       0.932  57.881 -15.395  1.00 26.90           O
+HETATM   54  C6  SGN A 902      -2.394  56.664 -12.612  1.00 47.23           C
+HETATM   55  H62 SGN A 902      -2.954  57.573 -12.831  1.00  0.00           H
+HETATM   56  H63 SGN A 902      -1.598  56.886 -11.901  1.00  0.00           H
+HETATM   57  C1  IDS A 903       4.356  54.677 -15.060  1.00 21.84           C
+HETATM   58  H1  IDS A 903       4.786  53.873 -15.657  1.00  0.00           H
+HETATM   59  O62 UAP A 901      -6.492  54.920 -16.954  1.00 96.58           O
+HETATM   60  O3  SGN A 904       5.184  57.881 -16.313  1.00 21.08           O
+HETATM   61  O2S SGN A 904       8.014  61.209 -18.508  1.00 26.76           O
+HETATM   62  H3  SGN A 904       4.464  57.658 -15.718  1.00  0.00           H
+HETATM   63  O3  SGN A 902      -3.275  55.141 -17.189  1.00 48.38           O
+HETATM   64  H3  SGN A 902      -3.633  55.998 -17.432  1.00  0.00           H
+HETATM   65  C5  SGN A 904       7.704  55.366 -15.172  1.00 20.92           C
+HETATM   66  H5  SGN A 904       7.918  55.731 -14.167  1.00  0.00           H
+HETATM   67  O2S SGN A 902      -2.107  50.880 -17.116  1.00 45.31           O
+HETATM   68  O6  SGN A 904       7.602  53.444 -16.553  1.00 22.01           O
+HETATM   69  O6S SGN A 902      -4.935  57.569 -11.235  1.00 45.96           O
+HETATM   70  O3S UAP A 901      -4.662  61.091 -12.352  1.00 78.11           O
+HETATM   71  O1S SGN A 904       9.942  59.886 -17.895  1.00 24.94           O
+HETATM   72  C4  UAP A 901      -5.779  58.290 -17.107  1.00100.00           C
+HETATM   73  C1  UAP A 901      -4.651  57.553 -14.723  1.00 79.36           C
+HETATM   74  H4  UAP A 901      -5.974  58.449 -18.157  1.00  0.00           H
+HETATM   75  H1  UAP A 901      -4.605  57.320 -13.659  1.00  0.00           H
+HETATM   76  C3  SGN A 902      -2.281  55.309 -16.204  1.00 49.30           C
+HETATM   77  O5  SGN A 902      -1.239  54.816 -13.606  1.00 43.17           O
+HETATM   78  O1S SGN A 902       0.061  51.234 -18.106  1.00 44.29           O
+HETATM   79  O4S SGN A 902      -5.737  55.297 -11.174  1.00 45.95           O
+HETATM   80  H3  SGN A 902      -1.484  55.941 -16.597  1.00  0.00           H
+HETATM   81  C4  IDS A 903       1.539  55.107 -14.366  1.00 27.74           C
+HETATM   82  C2  IDS A 903       3.714  54.099 -13.791  1.00 22.72           C
+HETATM   83  H4  IDS A 903       1.151  55.513 -13.432  1.00  0.00           H
+HETATM   84  H2  IDS A 903       3.794  54.802 -12.962  1.00  0.00           H
+HETATM   85  C1  SGN A 904       8.844  57.211 -16.212  1.00 22.65           C
+HETATM   86  H1  SGN A 904       9.638  57.443 -16.922  1.00  0.00           H
+HETATM   87  O4  SGN A 902      -3.389  57.247 -15.314  1.00 66.42           O
+HETATM   88  C4  SGN A 904       6.347  55.887 -15.646  1.00 19.90           C
+HETATM   89  H4  SGN A 904       6.073  55.428 -16.596  1.00  0.00           H
+HETATM   90  S   IDS A 903       5.100  52.636 -11.896  1.00 24.70           S
+HETATM   91  C2  SGN A 904       7.524  57.761 -16.734  1.00 21.02           C
+HETATM   92  C6  SGN A 904       7.695  53.850 -15.189  1.00 20.70           C
+HETATM   93  H2  SGN A 904       7.318  57.337 -17.717  1.00  0.00           H
+HETATM   94  H62 SGN A 904       6.838  53.475 -14.629  1.00  0.00           H
+HETATM   95  H63 SGN A 904       8.618  53.470 -14.752  1.00  0.00           H
+HETATM   96  O1  SGN A 902       0.459  54.866 -15.269  1.00 32.06           O
+HETATM   97  C5  IDS A 903       2.484  56.125 -15.018  1.00 25.34           C
+HETATM   98  H5  IDS A 903       3.023  56.692 -14.259  1.00  0.00           H
+HETATM   99  S1  SGN A 904       8.504  59.848 -18.214  1.00 23.13           S
+HETATM  100  O62 IDS A 903       1.849  56.955 -17.162  1.00 25.58           O
+CONECT    1    2   24   72   51
+CONECT    2    1
+CONECT    3   90
+CONECT    5    6   35   77   96
+CONECT    6    5
+CONECT    4   36   54
+CONECT    7   45
+CONECT    8   82   90
+CONECT    9   10   22   54   77
+CONECT   10    9
+CONECT   11   46
+CONECT   12   30   47   59
+CONECT   14   13
+CONECT   13   14   19   35
+CONECT   15   46
+CONECT   16   45   51
+CONECT   17   18   60   88   91
+CONECT   18   17
+CONECT   19   13   50   67   78
+CONECT   21   53   97  100
+CONECT   20   57   97
+CONECT   22   23    9   76   87
+CONECT   23   22
+CONECT   25   24
+CONECT   24    1   25
+CONECT   26   36
+CONECT   27   90
+CONECT   29   28
+CONECT   28   29   91   99
+CONECT   30   12
+CONECT   31   65   85
+CONECT   32   46
+CONECT   33   34   40   81   82
+CONECT   34   33
+CONECT   35   37    5   13   76
+CONECT   37   35
+CONECT   36   26    4   69   79
+CONECT   38   90
+CONECT   39   99
+CONECT   41   40
+CONECT   40   41   33
+CONECT   42   57   88
+CONECT   44   45
+CONECT   43   47   73
+CONECT   45   16    7   70   44
+CONECT   46   32   15   11   68
+CONECT   47   12   72   43
+CONECT   49   48
+CONECT   48   85   49
+CONECT   50   19
+CONECT   51    1   52   16   73
+CONECT   52   51
+CONECT   53   21
+CONECT   54   56   55    9    4
+CONECT   55   54
+CONECT   56   54
+CONECT   57   58   20   42   82
+CONECT   58   57
+CONECT   59   12
+CONECT   62   60
+CONECT   61   99
+CONECT   60   17   62
+CONECT   64   63
+CONECT   63   76   64
+CONECT   65   31   66   92   88
+CONECT   66   65
+CONECT   67   19
+CONECT   68   46   92
+CONECT   69   36
+CONECT   70   45
+CONECT   71   99
+CONECT   73   75   43   51   87
+CONECT   72    1   74   47
+CONECT   75   73
+CONECT   74   72
+CONECT   76   80   22   35   63
+CONECT   80   76
+CONECT   78   19
+CONECT   79   36
+CONECT   77    9    5
+CONECT   82   84    8   57   33
+CONECT   81   83   96   97   33
+CONECT   84   82
+CONECT   83   81
+CONECT   85   86   31   48   91
+CONECT   86   85
+CONECT   87   22   73
+CONECT   88   89   17   42   65
+CONECT   89   88
+CONECT   90    3    8   38   27
+CONECT   91   93   28   17   85
+CONECT   92   95   94   65   68
+CONECT   93   91
+CONECT   94   92
+CONECT   95   92
+CONECT   96    5   81
+CONECT   97   98   20   21   81
+CONECT   98   97
+CONECT   99   28   71   39   61
+CONECT  100   21
+END
